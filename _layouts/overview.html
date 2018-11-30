@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="container container--xl text--center text--lg space--xxxxl">
+  <p>{{page.intro}}</p>
+</div>
+
+<div class="container vpad--xxl">
+
+  {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
+
+
+  {% for destination in destinations %}
+
+
+  <div class="bob  {% cycle '', 'bob--swap' %} ">
+    <div class="bob__img">
+      <a href="{{site.baseurl}}{{destination.url}}" id="tracking-nikon-{{feature.id}}-image" class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/overview/bg-{{destination.id}}.jpg');" ></a>
+    </div>
+    <div class="bob__text">
+      <h3 class="sub-title sub-title--lg ">{{destination.title}}</h3>
+      <p class="text--md">{{destination.intro}}</p>
+      <div class="space--lg"></div>
+      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--g-blue" >Jetzt entdecken</a>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>
