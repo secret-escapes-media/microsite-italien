@@ -1,1 +1,172 @@
 // general styles for the project that wouldn't be a reuseable component
+
+
+/* ==========================================================================
+   Typo
+   ========================================================================== */
+
+
+   .bv-lineheight{
+    line-height: 1.2em;
+   }
+
+   .bv-mob-left {
+     text-align: center;
+   }
+
+   @media only screen and (max-width: 768px) {
+
+     .bv-mob-left {
+     text-align: left;
+     //color: #ff0;
+     }
+   }
+
+/* ==========================================================================
+   Parallax
+   ========================================================================== */
+
+.bv-parallax{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+    &--left   {
+      background-attachment: fixed;
+      background-position: 32% 50%;
+      background-repeat: no-repeat;
+      background-size: cover;}
+
+
+    &--right   {
+      background-attachment: fixed;
+      background-position: 60% 50%;
+      background-repeat: no-repeat;
+      background-size: cover;}
+
+    &--darkest   {
+      background-attachment: fixed;
+      background-color: rgba(5,20,40,0.9);
+      background-blend-mode: multiply;
+      background-position: center;
+      background-size: cover;}
+
+    &--darker   {
+      background-attachment: fixed;
+      background-color: rgba(5,20,40,0.8);
+      background-blend-mode: multiply;
+      background-position: center;
+      background-size: cover;}
+
+    &--dark   {
+      background-attachment: fixed;
+      background-color: rgba(5,20,40,0.7);
+      background-blend-mode: multiply;
+      background-position: center;
+      background-size: cover;}
+
+    &--lighter   {
+      background-attachment: fixed;
+      background-color: rgba(250,250,250,0.7);
+      background-blend-mode: lighten;
+      background-position: center;
+      background-size: cover;
+      }
+
+    &--light   {
+      background-attachment: fixed;
+      background-color: rgba(250,250,250,0.5);
+      background-blend-mode: color;
+      background-position: center;
+      background-size: cover; }
+
+    &--white   {
+      background-attachment: fixed;
+      background-color: rgba(250,250,250,0.8);
+      background-blend-mode: overlay;
+      background-position: center;
+      background-size: cover; }
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+.bv-remove-bg{
+
+  background-image: none!important;
+
+  &--black{
+    background-image: none!important;
+    background-color: #000;}
+}
+
+.bv-parallax{
+      background-attachment: scroll;
+      background-size: cover;
+
+      &--left   {
+        background-attachment: scroll;
+        background-position: 32% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;}
+
+
+      &--right   {
+        background-attachment: scroll;
+        background-position: 60% 50%;
+        background-repeat: no-repeat;
+        background-size: cover;}
+
+
+
+    &--darkest   {
+      background-attachment: scroll;
+      background-size: cover;
+    }
+      &--darker   {
+        background-attachment: scroll;
+        background-size: cover;
+      }
+      &--dark   {
+        background-attachment: scroll;
+        background-size: cover;
+        }
+
+      &--lighter   {
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: none;
+
+      }
+      &--light   {
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: none;
+     }
+     &--white   {
+       background-attachment: scroll;
+       background-size: cover;
+       background-color: none;
+    }
+
+    }
+
+}
+
+
+
+/*************** offer tag for included tag *******************/
+.flight-tag {
+  position: absolute;
+  top: $s-2;
+  left: $s-2;
+  display: block;
+  width: 50%;
+  @include bp($sm){
+    top: $s0;
+    left: $s0;
+    width: 146px;
+  }
+}

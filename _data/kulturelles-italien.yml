@@ -1,64 +1,18 @@
 - id: one
-  title: UNESCO Weltkulturerbe
-  page: kultur
+  title: Matera
   img: bg-img1
-  description: "Auf den Spuren längst vergangener Kulturen wandeln, verewigte Mythen entdecken, archäologische Schätze bestaunen – in Griechenland erwarten Sie antike Heiligtümer wie die Ruinen von Olympia und der Burgberg der Athene, die byzantinischen Prachtstücke von Thessaloniki sowie mykenische Kultstätten aus der Bronzezeit. Göttliche Voraussetzungen für spannende Kulturtrips zu den Wahrzeichen von Zeus, Apollon & Co. Das spätmittelalterliche Ensemble von Rhodos und die Altstadt von Korfu verwandeln die Inselwelt in ein lebendes&nbsp;Museum."
+  description: "Matera, auch zweites Bethlehem genannt, ist Europäische Kulturhauptstadt 2019. Die Stadt in der süditalienischen Region Basilikata gilt als eine der ältesten Städte Italiens und beeindruckt vor allem mit den sog. Sassi, in den Fels geschlagenen Höhlen, die noch bis in die 1950er Jahre bewohnt waren. Bei einem Spaziergang durch das historische Zentrum mit seinem dichten Netz an engen Gassen werden Sie das Gefühl haben, Sie seien in die Vergangenheit gereist. Nicht ohne Grund wurden hier z.B. Filme wie „Die Passion Christi“ von Mel Gibson gedreht. Heute befinden sich in den restaurierten Felshöhlen Restaurants, Bars und Hotels, die einen ganz besonderen Charme versprühen."
 
-  pois:
-
-    title:
-    items:
-
-      - id: 1-1
-        title: Aigai, Makedonien
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eisenzeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands&nbsp;gewährt."
-
-      - id: 1-2
-        title: Akropolis, Athen
-        description: "Eine der schönsten Vorlagen für einen Citytrip ist die Akropolis von Athen. Auf einem Felsen über der Stadt thronend, lockt das weltberühmte Wahrzeichen der griechischen Hauptstadt Jahr für Jahr kulturbegeisterte Entdecker aus aller Welt zu einer der bedeutendsten UNESCO-Welterbestätten Europas. Ein Monument der Geschichte, das man nicht nur wegen dem Parthenon, sondern auch wegen des sagenhaften Panoramas über Athen gesehen haben&nbsp;muss."
-
-      - id: 1-3
-        title: Orakel von Delphi
-        description: "In der Antike als Mittelpunkt der Welt verehrt, gehören die Überreste der Heiligtümer des Apollon auch heute noch zu den beeindruckendsten Vermächtnissen der griechischen Kultur. Nur 15 Kilometer vom Golf von Korinth entfernt, am Fuße des Parnass-Gebirges, versetzen Sie sich zwischen Schatzhäusern, Theatern und Tempeln in eine Epoche, in der das sagenumwobene Orakel von Delphi über das Schicksal Europas&nbsp;bestimmte."
-
-      - id: 1-4
-        title: Olympia Peloponnes
-        description: "Die Peloponnes verzaubert mit einer magischen Melange aus Stränden, Kultur und archäologischen Stätten. Dem Göttervater Zeus gewidmet, war das Areal einst Austragungsort sportlicher Wettkämpfe mit Athleten aus aller Welt. Eine Tradition, die bis heute Bestand hat und beim feierlichen Entzünden der olympischen Flamme vor den Ruinen des Hera-Tempels stilecht zelebriert wird. Ein absolutes Muss nicht nur für sportbegeisterte Aktivurlauber."
 
 
 ################################################################################
 
 
 - id: two
-  title: "Hellenische Highlights"
-  page: kultur
+  title: Palermo
   img: bg-img2
-  description: "Romantische Häfen, verwinkelte Altstadt-Gassen, imposante Festungen – im Freilichtmuseum Griechenland ist das nächste historische Highlight nicht weit entfernt. Der Großmeisterpalast von Rhodos, das von venezianischen Wehranlagen behütete Zentrum von Korfu-Stadt und das byzantinische Erbe von Thessaloniki machen den Städtetrip zur Zeitreise. Pittoreske Schmuckstücke wie Nafplio würzen das geschichtsträchtige Ambiente mit hellenischem&nbsp;Hafenflair."
+  description: "Die Hauptstadt Siziliens ist Italienische Kulturhauptstadt 2018. Seine Besucher zieht Palermo mit einem faszinierenden Reichtum an Kulturschätzen und seiner lebhaften Atmosphäre in den Bann. Sehenswert ist vor allem das 2015 in die UNESCO-Weltkulturerbe-Liste aufgenommene arabisch-normannische Erbe, welches auf das Königreich von 1130 bis 1194 zurückgeht und ein außergewöhnliches Beispiel der sozio-kulturellen Verschmelzung zwischen westlicher, islamischer und byzantinischer Kultur auf der Insel symbolisiert. Einen abwechslungsreichen Veranstaltungskalender mit Konzerten, Ausstellungen und Festivals vor historischer Kulisse hat Palermo ebenfalls zu bieten."
 
-  pois:
-
-    title:
-    items:
-
-      - id: 2-1
-        title: Korfu-Stadt
-        description: "Machen Sie sich gefasst auf Griechenlands besterhaltene mittelalterliche Altstadt, blicken Sie von der venezianischen Hafenfestung über das Ionische Meer und entdecken Sie das zum UNESCO-Weltkulturerbe gehörende Gesamtkunstwerk Korfu-Stadt. Kleine Kaffeehäuser und kühle Gassen laden zum Verweilen ein. Beim abendlichen Flanieren über die Esplanade und romantischen Sonnenuntergängen am Schloss Mon Repos wird die kultivierte Kulisse mit Leben&nbsp;erfüllt. "
-
-      - id: 2-2
-        title: Thessaloniki
-        description: "In Thessaloniki haben kulturbegeisterte Städtereisende die Qual der Wahl. Hier verschmelzen die Vermächtnisse unterschiedlicher Epochen zu einem begehbaren Denkmal. Römische, osmanische und griechische Einflüsse verleihen der Hauptstadt Makedoniens multikulturellen Glanz, der sich vom Trigonios-Turm der Zitadelle herrlich überblicken lässt. Der Axios Nationalpark im Westen der Stadt lädt nach dem Sightseeing zum Durchatmen zwischen Lagunen und Salinen&nbsp;ein."
-
-      - id: 2-3
-        title: Chania (Kreta)
-        description: "Einst lagen vor Chania die Schiffe der venezianischen Flotte, heute sind es vorwiegend Luxus-Yachten und Fischerboote, die mit Blick auf den ägyptischen Leuchtturm vor Anker gehen. An der autofreien Promenade relaxen Sie in schnuckligen Tavernen zwischen denkmalgeschützten Ensembles. Gleich dahinter empfängt Sie ein Gewirr aus Gassen, Boutiquen und altertümlichen Ruinen, die teilweise als stilechte Bühne für kretische Straßenkünstler&nbsp;dienen. "
-
-      - id: 2-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Eine vollständig erhaltene Stadtbefestigung, der weithin sichtbare Großmeisterpalast und das Marientor am Hafen sind nur einige der kolossalen Beigaben, mit denen Rhodos-Stadt Besucher anzieht. Ein Spaziergang zum Fort St. Nicholas gewährt Ausblicke über den Hafen, während zahlreiche Museen und Sakralbauten unterschiedlicher Religionen von der kosmopolitischen Anziehungskraft der Inselhauptstadt zeugen. Zur mittelalterlichen Magie gesellt sich der antike Charme der Akropolis von&nbsp;Rhodos."
-
-      - id: 2-5
-        title: Nafplio
-        description: "Mit ihren drei Festungen, den imposanten Stadttoren und den wie Bernstein leuchtenden Fassaden gehört Nafplio zu den pittoreskesten Hafenstädten auf der Peloponnes. Auf einer felsigen Landzunge über dem Argolischen Golf thronend, versprüht die einstige Hauptstadt Griechenlands mediterrane Unbekümmertheit und altmodischen Chic. Nur 30 Kilometer weiter östlich komplettiert die kultige Silhouette von Epidauros das Bild vom hellenischen&nbsp;Idyll. "
 
 
 
@@ -66,27 +20,39 @@
 
 
 - id: three
-  title: "Göttlicher Kulturtrip"
-  page: kultur
+  title: Perugia
   img: bg-img3
-  description: "Bekannt als europäische Heimat der Künste, Austragungsstätte olympischer Gesangswettbewerbe und antike Vorlage für Tragödien und Komödien dient Griechenland bis heute als Schauplatz für kulturelle Veranstaltungen von Weltformat. Lauschen Sie klassischen Konzerten in der Athens Concert Hall, lassen Sie sich beim alljährlich stattfindenden Athens and Epidaurus Festival von antiken Kulissen verzaubern und erleben Sie zeitgenössische Darbietungen im National Theatre of Northern Greece in der makedonischen Kulturmetropole&nbsp;Thessaloniki."
+  description: "Als Ergebnis seiner ruhmreichen Vergangenheit verfügt die Regionalhauptstadt Umbriens über einen immensen Kunst- und Kulturschatz und begeistert mit ihrem mittelalterlichen Charakter. In jedem Winkel und auf jedem Platz der Stadt kann man Monumente bewundern, die von Jahrhunderten der Geschichte zeugen. Das Zentrum ist ein Architektur-Schmuckstück des 14. Jahrhunderts und gilt als eines der schönsten Italiens. Es wird von zwei Mauerreihen umringt, die teilweise seit dem Mittelalter unversehrt geblieben sind. In der Umbrischen Nationalgalerie sind Meisterwerke italienischer Kunst vom Mittelalter bis zum 18. Jahrhundert von Piero della Francesca, Benozzo Gozzoli, Fra Angelico, Pinturicchio und Perugino zu bestaunen."
 
-  pois:
 
-    title:
-    items:
 
-      - id: 3-1
-        title: Hellenic Festival, Athen
-        description: "Jedes Jahr von Mai bis Oktober verwandelt sich Athen in eine Metropole der Kultur. Open-Air-Konzerte mit Weltstars, Theateraufführungen in antiken Kulissen und ein facettenreiches Rahmenprogramm lassen die Hauptstadt in altem Glanz erstrahlen. Ob Tragödie im Amphitheater von Epidauros, Jazz oder monumental inszenierte Klassik – beim Athens and Epidaurus Festival werden die Straßen zur&nbsp;Bühne. "
+################################################################################
 
-      #- id: 3-2
-      #  title: Konzert in Athens Concert Hall
-      #  description: "Die Athens Concert Hall gehört zweifellos zu den kulturellen Highlights der Hauptstadt. Seit der feierlichen Eröffnung im Jahre 1991 hat sich das Angebot stetig erweitert. Neben Konzerten klassischer Ensembles und Solisten finden in der Megaro Mousikis auch Ausstellungen zu den Themen Architektur, Design und bildende Kunst statt. Die Konzertorgel mit mehr als 6.000 Pfeifen macht der Göttin der Kunst alle&nbsp;Ehre."
 
-      - id: 3-3
-        title: Kunst und Kultur in Thessaloniki
-        description: "Eine von Stararchitekt Arata Isozaki entworfene Philharmonie, ein Freilichttheater im größten Park der Stadt und die Aufführungen des National Theatre of Northern Greece sind nur einige der kulturellen Glanzpunkte, mit denen Thessaloniki aufwartet. Viele einheimische Größen aus Film und Fernsehen habe Ihre Karriere in einem der vielen kleinen aber traditionsreichen Theater gestartet. Die Städtische Pinakothek lockt mit Exponaten von berühmten Künstlern wie Salvador Dalí und Roy&nbsp;Lichtenstein."
+- id: four
+  title: Alberobello
+  img: bg-img4
+  description: "Die apulische Stadt Alberobello ist die Hauptstadt der Trulli: Das historische Stadtzentrum besteht gänzlich aus diesen weißen, kegelförmigen Bauten, die es so berühmt und einzigartig machen. Die ältesten heute noch vorhandenen Trulli stammen aus dem 14. Jahrhundert und sind Teil des UNESCO-Weltkulturerbes. Diese besondere Bauart ohne Mörtel soll auf einem früheren Gesetz beruhen, wonach es Bauern nur erlaubt war diese Bauten zu errichten, um eine vom Königreich Neapel erlassene Steuer für neu errichtete Siedlungen zu umgehen. Ihre innere, kompakte Struktur ist Symbol einer beeindruckenden Baustatik."
+
+
+
+################################################################################
+
+
+- id: five
+  title: Assisi
+  img: bg-img5
+  description: "Die mittelalterliche Stadt Assisi gehört aufgrund ihrer historischen Kontinuität seit dem Jahr 2000 zum italienischen UNESCO-Weltkulturerbe. Insbesondere die Basilika San Francesco repräsentiert eine Sammlung von Meisterwerken der menschlichen Schöpferkraft und ist ein hervorragendes Beispiel architektonischer Komplexität, welches die Entwicklung der Kunst und Architektur bedeutend beeinflusst hat. Architekten und Maurer sowie Steinmetze haben im Laufe der Jahre Assisi einen unvergleichlichen Anblick verliehen. Am meisten wurde die Geschichte und das Schicksal der Stadt wohl durch den Heiligen Franziskus geprägt, dem Begründer des Franziskaner Ordens."
+
+
+
+################################################################################
+
+
+- id: six
+  title: Verona
+  img: bg-img6
+  description: "Auf einer Landzunge des Flusses Adige erhebt sich die „italienische Stadt der Liebe”. Gegründet vor gut 2.000 Jahren entwickelte sich Verona während der Römerzeit zu einem prächtigen städtischen Zentrum, von dem heute noch prunkvolle Bauten zeugen, wie z.B. das römische Amphitheater, das Stadttor Porta dei Borsari, die archäologische Ausgrabungsstätte Porta Leoni und das Wahrzeichen der Stadt: die Gladitorenkampf-Arena aus dem 1. Jahrhundert vor Christus. Nach eingehender Restauration und seit der Erstaufführung der Verdi-Oper Aida zählt sie zu einer der beeindruckensten Bühnen der darstellenden Künste. In dieser Stadt harmonieren künstlerische Elemente aus verschiedenen Epochen, die ihr viele Gesichter und einen Platz auf der UNESCO-Weltkulturerbe-Liste verleihen."
 
 
 

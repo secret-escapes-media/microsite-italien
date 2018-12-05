@@ -16,6 +16,9 @@
   &--wide-kern    { letter-spacing: .25em; }
   &--wide-kern-lg { letter-spacing: .5em; }
   &--upper        { text-transform: uppercase; }
+  &--serif        { font-family: $font-serif-italic; font-size: 1.65rem; }
+  &--serif-lg        { font-family: $font-serif-italic; font-size: 2.2rem; }
+
 
   // colours
   &--white { color: $grey-lightest; }
@@ -30,4 +33,8 @@
     &--bp-right  { text-align: right; }
     &--bp-center { text-align: center; }
   }
+}
+
+.text-serif {
+  font-family: $font-serif-italic; font-size: 1.2rem;
 }

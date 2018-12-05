@@ -17,6 +17,8 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
+  &--i-blue { background-color: $i-blue;}
+  &:hover { background-color: $i-blue; }
   &--outline {
     color: inherit;
     &:before {
