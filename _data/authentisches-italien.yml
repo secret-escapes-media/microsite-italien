@@ -1,7 +1,7 @@
 - id: one
   title: "Dorfidyll & Hotelkomfort"
   img: bg-img1
-  description: "Authentische Erfahrungen, bei denen Sie mittelalterliche Dörfer, unberührte Landschaften sowie das Leben der Einheimischen und lokale Traditionen hautnah erleben können, versprechen Reisen in das Hinterland. In einigen meist im Mittelalter rings um eine Burg entstandenen Dörfern, den sogenannten Borghi, sind Traditionen und authentische Küche lebendig wie an kaum einem anderen Ort. Viele der rund 1.000 Borghi von Nord- bis Süditalien bieten Besuchern Unterkünfte in restaurierten Gebäuden, die vormals eine ganz andere Funktion hatten. So können Sie beispielsweise in ehemaligen Mühlen, Schlössern oder Klöstern übernachten."
+  description: "Authentische Erfahrungen, bei denen Sie mittelalterliche Dörfer, unberührte Landschaften sowie das Leben der Einheimischen und lokale Traditionen hautnah erleben können, versprechen Reisen in das Hinterland. In vielen Borghi sind Traditionen und authentische Küche lebendig wie an kaum einem anderen Ort. Viele der rund 1.000 Borghi von Nord- bis Süditalien bieten Besuchern Unterkünfte in restaurierten Gebäuden, die vormals eine ganz andere Funktion hatten. So können Sie beispielsweise in ehemaligen Mühlen, Schlössern oder Klöstern übernachten."
 
 
 
@@ -11,7 +11,7 @@
 - id: two
   title: Natur pur
   img: bg-img2
-  description: "Urlaub in der Natur verspricht Erholung und Entschleunigung sowie die seltene Gelegenheit, das Ursprüngliche und Authentische eines Landes ganz in Ruhe zu entdecken: 25 Nationalparks und etliche regionale Naturschutzgebiete bieten Naturerlebnisse und Touren abseits der Touristenpfade, bei denen Sie die lokale Tier- und Pflanzenwelt kennenlernen sowie Trekking- und Mountainbike-Ausflüge unternehmen können. Entdecken Sie auf verschiedensten Routen unvergleichliche Natur- und Kulturlandschaften. Schnorchel- und Tauchfans erwarten darüber hinaus faszinierende Meeresschutzparks – Küstenzonen, in denen die Unterwasserwelt besonders geschützt ist."
+  description: "Urlaub in der Natur verspricht Erholung und Entschleunigung sowie die Gelegenheit, das Ursprüngliche und Authentische eines Landes ganz in Ruhe zu entdecken: 25 Nationalparks und etliche regionale Naturschutzgebiete ermöglichen Naturerlebnisse und Touren abseits der Touristenpfade, bei denen Sie die lokale Tier- und Pflanzenwelt kennenlernen sowie Trekking- und Mountainbike-Ausflüge unternehmen können. Entdecken Sie auf verschiedensten Routen unvergleichliche Natur- und Kulturlandschaften. Schnorchel- und Tauchfans erwarten darüber hinaus faszinierende Meeresschutzparks, in denen die Unterwasserwelt besonders geschützt ist."
 
 
 
@@ -32,7 +32,7 @@
 - id: four
   title: Italien für alle Sinne
   img: bg-img4
-  description: "Sich in Italien wohlzufühlen ist einfach: Nach der bis heute erhaltenen Wellness- und Gesundheitstradition der Römer werden noch immer Körper und Geist verwöhnt. Natürliche Saunen und in der Vegetation versteckte Grotten mit heißen, angenehm nach Eisen riechenden Dämpfen stärken den Körper und verwöhnen die Sinne. Ein Wellnessurlaub in Italien besteht aus mehr als Anwendungen und Kuren, er sorgt für ganzheitliches Wohlbefinden. Individuelle Therapien gehören ebenso dazu wie die Spezialitäten der Küche, die Entschleunigung beim Entspannen in malerischen Landschaften sowie die Luft der Berge oder des Meeres."
+  description: "Sich in Italien wohlzufühlen ist einfach: Nach der bis heute erhaltenen Wellness- und Gesundheitstradition der Römer werden noch immer Körper und Geist verwöhnt. Natürliche Saunen und in der Vegetation versteckte Grotten mit heißen, angenehm nach Eisen riechenden Dämpfen stärken den Körper und verwöhnen die Sinne. Ein Wellnessurlaub in Italien besteht aus mehr als Anwendungen und Kuren, er sorgt für ganzheitliches Wohlbefinden. Individuelle Therapien gehören ebenso dazu wie die Spezialitäten der Küche, die Entschleunigung beim Entspannen in malerischen Landschaften sowie die Luft der Berge oder des&nbsp;Meeres."
 
 
 
@@ -42,7 +42,7 @@
 - id: five
   title: "Cucina italiana"
   img: bg-img5
-  description: "Die kulinarische Tradition Italiens geht weit über das hinaus, was wir mit Italienischer Küche verknüpfen, sie ist Herz der Identität und Kultur des Landes. Auf Street-Food-Events, Märkten und gastronomischen Festen, aber auch im Agritourismus sowie auf traditionellen Weingütern und Bauernhöfen werden die lokalen Produkte – wie etwa Radicchio aus Treviso, cremiger Ricotta Romana oder aromatischer San-Daniele-Schinken – und der Genuss in guter Gesellschaft zelebriert. Kosten Sie Spezialitäten der Gegend entlang thematischer Routen, den Sentieri del Gusto oder finden Sie Ihre liebste Rebsorte des weltberühmten italienischen Weins entlang der Strade del Vino. "
+  description: "Die kulinarische Tradition Italiens geht weit über das hinaus, was wir mit Italienischer Küche verknüpfen, sie ist Herz der Identität und Kultur des Landes. Auf Street-Food-Events, Märkten und gastronomischen Festen, aber auch im Agritourismus sowie auf traditionellen Weingütern und Bauernhöfen werden die lokalen Produkte – wie etwa Radicchio aus Treviso, cremiger Ricotta Romana oder aromatischer San-Daniele-Schinken – und der Genuss in guter Gesellschaft zelebriert. Kosten Sie Spezialitäten der Gegend entlang thematischer Routen, den Sentieri del Gusto oder finden Sie Ihre liebste Rebsorte des weltberühmten italienischen Weins entlang der Strade del&nbsp;Vino. "
 
 
 
@@ -52,7 +52,7 @@
 - id: six
   title: "Musikalisches Erlebnis"
   img: bg-img6
-  description: "Italienisch gilt als die Sprache der klassischen Musikwelt, von der Oper und dem Belcanto bis zum Schlager der 1950er Jahre wird die italienische Musik weltweit gefeiert. Typisch italienische Liedermacher, Cantautori wie Paolo Conte, Lucio Dalla oder Pino Daniele haben sich mit ihren Texten zu wahren Stars aufgeschwungen. Heute zeigt sich die Musik des Landes vielfältiger denn je und es gibt kaum eine Provinz, die nicht ihr eigenes Musikfestival feiert: die bekannten Opernfestspiele in Verona, das Umbria-Jazz-Festival in Perugia, der Maggio Fiorentino Musicale in Florenz oder das größte Straßenmusikfest Italiens in Ferrara."
+  description: "Italienisch gilt als die Sprache der klassischen Musikwelt, von der Oper und dem Belcanto bis zum Schlager der 1950er Jahre wird die italienische Musik weltweit gefeiert. Typisch italienische Liedermacher, Cantautori wie Paolo Conte, Lucio Dalla oder Pino Daniele haben sich mit ihren Texten zu wahren Stars aufgeschwungen. Heute zeigt sich die Musik des Landes vielfältiger denn je und es gibt kaum eine Provinz, die nicht ihr eigenes Musikfestival feiert: die bekannten Opernfestspiele in Verona, das Umbria-Jazz-Festival in Perugia, der Maggio Fiorentino Musicale in Florenz oder das größte Straßenmusikfest Italiens in&nbsp;Ferrara."
 
 
 

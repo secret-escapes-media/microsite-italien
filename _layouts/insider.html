@@ -3,36 +3,48 @@ layout: default
 ---
 
 
-<div class=" vpad--xxl {{page.colour}}">
+<div class=" vpad--xxl {{page.colour}} bv-parallax bv-drawing" style="background-image: url('{{site.img}}/icons/{{page.drawing}}.png');">
   <div class="container">
     <div class="width width--xl text--serif text--left text--normal text--xxl text--white " >
       <div class=" text--serif-lg">{{page.intro-title}}</div>
-       <p>{{page.intro}}</p>
+       <div class="text--serif-italic">{{page.intro}}</div>
     </div>
   </div>
 </div>
 
 
-<div class="container vpad--xxl">
+<div class="space--xxxl"></div>
 
-  {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
+{% for section in site.data[page.id] %}
+<div class="container vpad--md">
+  <div class="row row--3-3-3-3 row--gutters ">
 
-
-  {% for destination in destinations %}
-
-
-  <div class="bob  {% cycle '', 'bob--swap' %} ">
-    <div class="bob__img">
-      <a href="{{site.baseurl}}{{destination.url}}"  class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{destination.id}}.jpg');" ></a>
+    <div class="col--lg--3 col--middle bv-img-insider boxpad--lg">
+      <div class="bg-img bg-img--1-1 bv-img-circle " style="background-image: url('{{site.img}}/content/{{page.id}}/{{section.img}}.jpg');  " ></div>
     </div>
-    <div class="bob__text">
-      <h3 class="title title--lg ">{{destination.title}}</h3>
-      <p class="text--md">{{destination.summary}}</p>
-      <div class="space--lg"></div>
-      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--i-blue" >{{destination.cta}}</a>
+    <div class="col col--9" style="margin-top:-15px;">
+      <h3 class="title title--md bv-headline-divider">{{section.title}}:</h3>
+      <p class="text--xxxl text--italic text--serif">"{{section.description}}"</p>
+
+
     </div>
   </div>
-
+</div>
   {% endfor %}
 
-</div>
+<div class="space--xxxl"></div>
+  <!--
+<div class="row row--4-4-4 row--gutters">
+      {% for poi in section.pois1.items %}
+
+      <div class="col">
+        <a href="javascript:void(0);" data-modal-item="{{poi.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--4-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{poi.id}}.jpg);">
+        <span class="bg-img__expand"></span></a>
+        <div class="space--md"></div>
+        <h5 class="title title--xxs text--bold">{{poi.title}}</h5>
+        <p>{{poi.content}}</p>
+      </div>
+
+
+      {% endfor %}
+</div> -->

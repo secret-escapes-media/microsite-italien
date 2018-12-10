@@ -5,6 +5,42 @@
    Typo
    ========================================================================== */
 
+   .bv-title-divider::after{
+     content: url(../img/icons/divider-w.svg);
+     display: block;
+     margin-top: -5px;
+     //margin-bottom: -20px;
+     transform: scale(.65);
+
+     @include bp($md) {
+       content: url(../img/icons/divider-w.svg);
+       display: block;
+       margin-top: 10px;
+       //margin-bottom: -20px;
+       transform: scale(.5);
+
+     }
+
+     @include bp($xl) {
+       content: url(../img/icons/divider-w.svg);
+       display: block;
+       margin-top: 2px;
+       //margin-bottom: -20px;
+       transform: scale(.3);
+
+     }
+
+   }
+
+
+  .bv-headline-divider::after {
+    content: ('–––');
+    display: block;
+    color: $i-blue;
+    font-size: $s5;
+    letter-spacing: -4px;
+    margin: -3px 0 -2px 2px;
+  }
 
    .bv-lineheight{
     line-height: 1.2em;
@@ -156,6 +192,31 @@
 }
 
 
+.bv-drawing{
+
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  background-size: cover;
+
+}
+
+/* ==========================================================================
+Insidertipps
+========================================================================== */
+
+.bv-img-insider{
+  width: 75%;
+  max-width: $lg;
+  @include bp($xl) {
+    width: 25%;
+    max-width: none;
+  }
+}
+
+.bv-img-circle {
+  border-radius: 500px;
+  border: 4px $white solid;
+}
 
 /*************** offer tag for included tag *******************/
 .flight-tag {
