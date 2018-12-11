@@ -13,38 +13,55 @@ layout: default
 </div>
 
 
-<div class="space--xxxl"></div>
+<div class="space--xxl ">
 
 {% for section in site.data[page.id] %}
-<div class="container vpad--md">
+<div class="container bg--white" style="border-bottom: 1px solid #dadcdf">
   <div class="row row--3-3-3-3 row--gutters ">
 
-    <div class="col--lg--3 col--middle bv-img-insider boxpad--lg">
-      <div class="bg-img bg-img--1-1 bv-img-circle " style="background-image: url('{{site.img}}/content/{{page.id}}/{{section.img}}.jpg');  " ></div>
+    <div class="col--lg--3 col--top bv-img-insider boxpad--lg">
+      <div class="bg-img bg-img--1-1 bv-img-circle " style="background-image: url('{{site.img}}/content/{{page.id}}/{{section.img}}.jpg'); margin-top:0px; " ></div>
     </div>
-    <div class="col col--9" style="margin-top:-15px;">
-      <h3 class="title title--md bv-headline-divider">{{section.title}}:</h3>
-      <p class="text--xxxl text--italic text--serif">"{{section.description}}"</p>
-
-
-    </div>
-  </div>
-</div>
-  {% endfor %}
-
-<div class="space--xxxl"></div>
-  <!--
-<div class="row row--4-4-4 row--gutters">
-      {% for poi in section.pois1.items %}
-
-      <div class="col">
-        <a href="javascript:void(0);" data-modal-item="{{poi.id}}" data-modal-group="section" class="js-open-modal bg-img bg-img--4-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{poi.id}}.jpg);">
-        <span class="bg-img__expand"></span></a>
+    <div class="col col--9 bv-mob-center boxpad--lg" style="margin-top:-15px;">
+      <div class="space--xl"></div>
+      <h3 class=" title title--xl ">{{section.title}}</h3>
+        <div class="space--sm"></div>
+      <div class=" text text--xxxl text ">{{section.location}}</div>
+      <div class="space--md"></div>
+      <button class="bv-collapsible text text--xxl  ">Tipps</button>
+      <div class="bv-content text--left" >
         <div class="space--md"></div>
-        <h5 class="title title--xxs text--bold">{{poi.title}}</h5>
-        <p>{{poi.content}}</p>
+        {% for tips in section.tips.items %}
+          <h3 class=" text text--xxl text--bold  ">{{tips.question}}?</h3>
+          <div class=" text text--xxl  ">{{tips.answer}}</div>
+          <div class="space--md"></div>
+        {% endfor %}
+
+
       </div>
 
+    </div>
 
-      {% endfor %}
-</div> -->
+  </div>
+  <div class="space--md"></div>
+</div>
+
+<div class="space--xl"></div>
+  {% endfor %}
+
+
+  <!--
+  <p class="accordion">Q1. What currency is the course charged in?</p>
+  <div class="panel">A. The course is charged in Australian dollars.</div>
+
+  <p class="accordion">Q2. What if the course doesn’t help me?</p>
+  <div class="panel">A. If it doesn't help you I'll refund the purchase price in full.</div>
+
+  <p class="accordion">Q3. When will the webinars take place?</p>
+  <div class="panel">A. Depending on the mix of countries and time zones for people attending the webinars, I will pick a time that works best for most participants. All webinars will be recorded so you can listen to them again. The private Facebook group will obviously be available 24/7 and I’ll be monitoring and contributing to the discussion regularly.</div>
+
+  <p class="accordion">Q4. What is the self-directed mentoring program?</p>
+  <div class="panel">A. The self-directed mentoring program is designed to help you set-up and run an effective mentee-mentor relationship as part of the course.</div>
+<div class="space--xl"></div>
+</div>
+-->

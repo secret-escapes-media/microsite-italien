@@ -1,29 +1,146 @@
 - id: one
-  title: "Name1"
+  title: "Erika Ferrando"
   img: bg-img1
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio"
+  location: Tänzerin aus Genova
 
+  tips:
+
+    items:
+
+      - id: 1
+        question: Welche italienische Region bietet für dich die meisten Reize
+        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des Landes"
+
+      - id: 2
+        question: "Welche Stadt würdest du für einen Kurztrip empfehlen"
+        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern gilt."
+
+      - id: 3
+        question: "Was macht für dich dich das 'authentische' Italien aus?"
+        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet sind."
+
+      - id: 4
+        question: "Welches regionale Gericht sollte jeder Italien-Urlauber probieren außer der klassischen Pizza & Pasta"
+        answer: "Trofie, eine besondere Nudelform, mit Pesto sollten in jedem Fall probiert werden - das ist eine ligurische Pastaspezialität. Das Pesto aus Ligurien ist einzigartig!"
+
+      - id: 5
+        question: "In welcher Jahreszeit sollte man Italien bereisen"
+        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination aus."
+
+      - id: 6
+        question: "Hast du einen Geheimtipp für uns"
+        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur schnorchelt."
 
 
 ################################################################################
 
 
 - id: two
-  title: Name2
+  title: Isabella Ferone
   img: bg-img2
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat "
+  location: Designerin aus Rom
 
+  tips:
 
+    items:
+
+      - id: 1
+        question: Welche italienische Region bietet für dich die meisten Reize
+        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des Landes"
+
+      - id: 2
+        question: "Welche Stadt würdest du für einen Kurztrip empfehlen"
+        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern gilt."
+
+      - id: 3
+        question: "Was macht für dich dich das 'authentische' Italien aus?"
+        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet sind."
+
+      - id: 4
+        question: "Welches regionale Gericht sollte jeder Italien-Urlauber probieren außer der klassischen Pizza & Pasta"
+        answer: "Trofie, eine besondere Nudelform, mit Pesto sollten in jedem Fall probiert werden - das ist eine ligurische Pastaspezialität. Das Pesto aus Ligurien ist einzigartig!"
+
+      - id: 5
+        question: "In welcher Jahreszeit sollte man Italien bereisen"
+        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination aus."
+
+      - id: 6
+        question: "Hast du einen Geheimtipp für uns"
+        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur schnorchelt."
 
 
 ################################################################################
 
 
 - id: three
-  title: Name3
+  title: Mariachiara Francescini
   img: bg-img3
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet!"
+  location: Archäologin aus Brescia
 
+  tips:
+
+    items:
+
+      - id: 1
+        question: Welche italienische Region bietet für dich die meisten Reize
+        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des Landes."
+
+      - id: 2
+        question: "Welche Stadt würdest du für einen Kurztrip empfehlen"
+        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern gilt."
+
+      - id: 3
+        question: "Was macht für dich dich das 'authentische' Italien aus?"
+        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet sind."
+
+      - id: 4
+        question: "Welches regionale Gericht sollte jeder Italien-Urlauber probieren außer der klassischen Pizza & Pasta"
+        answer: "Trofie, eine besondere Nudelform, mit Pesto sollten in jedem Fall probiert werden - das ist eine ligurische Pastaspezialität. Das Pesto aus Ligurien ist einzigartig!"
+
+      - id: 5
+        question: "In welcher Jahreszeit sollte man Italien bereisen"
+        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination aus."
+
+      - id: 6
+        question: "Hast du einen Geheimtipp für uns"
+        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur schnorchelt."
+
+
+################################################################################
+
+
+- id: four
+  title: Oliver Astrologo
+  img: bg-img4
+  location: Filmemacher aus Rom
+
+  tips:
+
+    items:
+
+      - id: 1
+        question: Welche italienische Region bietet für dich die meisten Reize
+        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des Landes."
+
+      - id: 2
+        question: "Welche Stadt würdest du für einen Kurztrip empfehlen"
+        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern gilt."
+
+      - id: 3
+        question: "Was macht für dich dich das 'authentische' Italien aus?"
+        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet sind."
+
+      - id: 4
+        question: "Welches regionale Gericht sollte jeder Italien-Urlauber probieren außer der klassischen Pizza & Pasta"
+        answer: "Trofie, eine besondere Nudelform, mit Pesto sollten in jedem Fall probiert werden - das ist eine ligurische Pastaspezialität. Das Pesto aus Ligurien ist einzigartig!"
+
+      - id: 5
+        question: "In welcher Jahreszeit sollte man Italien bereisen"
+        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination aus."
+
+      - id: 6
+        question: "Hast du einen Geheimtipp für uns"
+        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur schnorchelt."
 
 
 ################################################################################

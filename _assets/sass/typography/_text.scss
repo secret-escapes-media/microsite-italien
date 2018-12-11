@@ -1,6 +1,7 @@
 // general modifier styles for text
 
 .text {
+  font-family: $font-title-01;
   // sizes
   &--xxxl { font-size: 1.4rem; line-height: 1.6; letter-spacing: 0; }
   &--xxl { font-size: 1.25rem; line-height: 1.6; letter-spacing: 0; }
@@ -12,6 +13,7 @@
   &--italic       { font-style: italic; }
   &--light        { font-weight: 300; }
   &--normal       { font-weight: 400; }
+  &--medium         { font-weight: 500; }
   &--bold         { font-weight: 600; }
   &--bolder       { font-weight: 700; }
   &--wide-kern    { letter-spacing: .25em; }

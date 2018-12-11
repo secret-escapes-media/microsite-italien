@@ -2,7 +2,7 @@
 
 $site-nav-height:    60px;
 $site-nav-height-sm: 44px;
-$nav-width-bp:       640px;
+$nav-width-bp:       860px;
 $nav-color:          $white;
 
 
@@ -40,7 +40,7 @@ $nav-color:          $white;
     bottom: 0;
     z-index: $z-nav-upper;
     width: $site-nav-height-sm;
-    background-image: url("../img/icons/nav-arrow.svg");
+    background-image: url("../img/icons/nav-arrow-footer.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: $site-nav-height-sm auto;
