@@ -15,10 +15,20 @@
   &--sm { padding: $s1 $s4; font-size: $s-2; }
   &--lg { padding: $s3 $s8; font-size: $s-1; }
   &--orange { background-color: $orange;
-    &:hover { background-color: $orange-dark; }
-  }
-  &--i-blue { background-color: $i-blue;}
-  &:hover { background-color: $i-blue; }
+    &:hover { background-color: $orange-dark; } }
+
+  &--i-blue { background-color: $i-blue;
+    &:hover { background-color: $i-blue; }}
+
+  &--i-yellow { background-color: $i-yellow; color: $black;
+    &:hover { background-color: $i-yellow; }}
+
+  &--i-red { background-color: $i-red;
+    &:hover { background-color: $i-red; }}
+
+  &--i-green { background-color: $i-green;
+    &:hover { background-color: $i-green; }}
+
   &--outline {
     color: inherit;
     &:before {
