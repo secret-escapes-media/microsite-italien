@@ -1,7 +1,7 @@
 - id: "0"
   title: "Erika Ferrando"
   img: bg-img1
-  location: Tänzerin aus Genova
+  location: Tänzerin aus Genua
 
   tips:
 
@@ -9,15 +9,15 @@
 
       - id: 1
         question: Welche italienische Region bietet für dich die meisten Reize
-        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des Landes."
+        answer: "Meine Lieblingsregion ist Ligurien. Es ist ein besonderer Ort, weil Meer und Berge fast ineinander übergehen. Sehr lange war die Region eher unerschlossen, wodurch die Bewohner bei der Errichtung ihrer Städte und Dörfer im bergigen Inland und an der Italienischen Riviera oft sehr erfinderisch sein mussten. Einige dieser Orte gehören zu den schönsten und charakteristischsten des&nbsp;Landes."
 
       - id: 2
         question: "Welche Stadt würdest du für einen Kurztrip empfehlen"
-        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern gilt."
+        answer: "Genova ist auf jeden Fall eine Reise wert. Die Stadt ist eine kleine Perle, die noch recht unentdeckt ist. Eine Erkundundungstour sollte man am alten Hafen von Renzo Piano starten, durch die wunderschöne Altstadt mit ihren engen Gassen und Straßen mit imposanten historischen Gebäuden wie die Via Garibaldi spazieren und dann dem Viertel Boccadasse einen Besuch abstatten, wo es pittoreske farbenfrohe Häuser am Meer zu bewundern&nbsp;gilt."
 
       - id: 3
         question: "Was macht für dich dich das 'authentische' Italien aus"
-        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet sind."
+        answer: "Das authentische Italien ist das der wunderschönen mittelalterlichen Dörfer, die man überall im Land finden kann. Viele davon sind ziemlich unbekannt und warten nurf darauf, entdeckt zu werden. Überall dort kann man regionale traditionelle italienische Küche probieren. In jedem Winkel Italiens findet man ein Stück Geschichte oder Kulturschätze, die nicht einmal in Reiseführern verzeichnet&nbsp;sind."
 
       - id: 4
         question: "Welches regionale Gericht sollte jeder Italien-Urlauber probieren außer der klassischen Pizza & Pasta"
@@ -25,11 +25,11 @@
 
       - id: 5
         question: "In welcher Jahreszeit sollte man Italien bereisen"
-        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination aus."
+        answer: "Italien ist immer eine Reise wert, schließlich gibt es hier nicht nur Strände für den Sommerurlaub. Das Land beeindruckt mit unterschiedlichsten Lanschaften wie den Dolomiten, die in jeder Jahreszeit eine schöne Destination sind. Auch die Maremma in der Toskana, ein eher unbekannterer Teil der Region, verdient auch in der Nebensaison einen Besuch. Waren Sie schon einmal im Frühling auf Sardinien? Dort erwartet sie eine Explosion von Blumen und Natur und die Farben vermischen sich mit dem Blau des Meeres. Selbst im Winter geht vom Meer eine unglaubliche Faszination&nbsp;aus."
 
       - id: 6
         question: "Hast du einen Geheimtipp für uns"
-        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur schnorchelt."
+        answer: "Ein ganz besonderer Ort ist Camogli, ein kleines Dorf an der ligurischen Riviera mit bunten Häuschen und kleinen typischen Restaurants direkt am Meer. Essen Sie eine leckere Focaccia mit Käse und nehmen Sie ein Boot zur Abtei von San Fruttuoso - ein wirklich magischer Ort! Die Abtei ist nur vom Wasser zugänglich, eine kleine Oase, eingebettet in einzigartige Landschaft zwischen den Wäldern des Berges von Portofino  und dem blauen Meer Liguriens. In der Bucht von SAn Fruttuoso, 15 Meter tief auf dem Meeresgrund, befindet sich zudem der Cristo degli Abissi, eine Bronzestatue, die auch gut sichtbar ist, wenn man einfach nur&nbsp;schnorchelt."
 
 
 ################################################################################
@@ -46,22 +46,22 @@
 
       - id: 1
         question: Gibt es eine Region in Italien, die dich besonders fasziniert
-        answer: "Italien ist so ein vielfältiges Land mit unglaublich abwechslungsreicher Landschaft, Geschichte und Kultur an jeder Ecke, da ist es sehr schwierig, eine Lieblingsregion zu benennen. Ich liebe das Meer in Apulien, die Architektur im Latium und die atemberaubende Landschaft im Trentino. Gerade die Vielfalt macht die Schönheit Italiens aus!"
+        answer: "Italien ist so ein vielfältiges Land mit unglaublich abwechslungsreicher Landschaft, Geschichte und Kultur an jeder Ecke, da ist es sehr schwierig, eine Lieblingsregion zu benennen. Ich liebe das Meer in Apulien, die Architektur im Latium und die atemberaubende Landschaft im Trentino. Gerade die Vielfalt macht die Schönheit Italiens&nbsp;aus!"
 
       - id: 2
-        question: "Welche Stadt sollte ein Italien-Urlauber in jedem Fall besuchen"
-        answer: "Italien hat fernab der Touristenpfade noch so viel mehr zu bieten: Siena in der Toskana mit seinem Palio, einem traditionellen Pferderennen, das Dorf Cività di Bagnoregio, das seit einem Erdbeben praktisch verlassen war und inzwischen zu den schönsten Orten nicht nur des Latiums, sondern ganz Italiens zählt, weiter im Süden begeistert das wunderschöne Matera und Syrakus glänzt auf Sizilien mit seinen architektonischen Meisterwerken im Barockstil."
+        question: "Welche Stadt sollte ein Italien-Urlauber in jedem Fall&nbsp;besuchen"
+        answer: "Italien hat fernab der Touristenpfade noch so viel mehr zu bieten: Siena in der Toskana mit seinem Palio, einem traditionellen Pferderennen, das Dorf Civita di Bagnoregio, das seit einem Erdbeben praktisch verlassen war und inzwischen zu den schönsten Orten nicht nur des Latiums, sondern ganz Italiens zählt, weiter im Süden begeistert das wunderschöne Matera und Syrakus glänzt auf Sizilien mit seinen architektonischen Meisterwerken im&nbsp;Barockstil."
 
       - id: 3
-        question: "Was sollte man auf jeden Fall probieren, wenn man eine Reise nach Italien macht"
-        answer: "Als Römer muss ich unbedingt Pasta Cacio e Pepe und Carbonara empfehlen. Im Süden sollte man in jedem Fall typische Gerichte wie Tortiglioni alla Siciliana oder Orecchiette con cime di rapa pugliesi probieren. Im Norden sollte man sich die Pizzoccheri oder das Cotoletta alla Milanese nicht entgehen lassen. Und auf keinen Fall darf ein Dessert fehlen - gerade im Süden gibt es ausgezeichnete Süßspeisen wie das Cannolo siciliano oder die Babà. "
+        question: "Was sollte man auf jeden Fall probieren, wenn man eine Reise nach Italien&nbsp;macht"
+        answer: "Als Römer muss ich unbedingt Pasta Cacio e Pepe und Carbonara empfehlen. Im Süden sollte man in jedem Fall typische Gerichte wie Tortiglioni alla Siciliana oder Orecchiette con cime di rapa pugliesi probieren. Im Norden sollte man sich die Pizzoccheri oder das Cotoletta alla Milanese nicht entgehen lassen. Und auf keinen Fall darf ein Dessert fehlen - gerade im Süden gibt es ausgezeichnete Süßspeisen wie das Cannolo siciliano oder&nbsp;die&nbsp;Babà. "
 
 
 ################################################################################
 
 
 - id: "2"
-  title: Mariachiara Francescini
+  title: Mariachiara Franceschini
   img: bg-img3
   location: Archäologin aus Brescia
 
@@ -70,20 +70,20 @@
     items:
 
       - id: 1
-        question: Als Archäologin betrachtet man viele Orte ja aus einer besonderen Perspektive - welche Region fasziniert dich am meisten
-        answer: "Ganz klar: Umbien! Mit dieser Region fühle ich mich besonders verbunden, weil ich dort als Studentin oft an Ausgrabungen beteiligt war. Umbrien ist wirklich ein Kleinod im Zentrum Italiens, ein Ort reich an Geschichte und Kultur, wo Kunst und Natur harmonisch interagieren. In Felsen gebaute Dörfer zwischen großteils wilden und unberührten Naturparks machen die Region zu einem ganz besonderen Ort."
+        question: Als Archäologin betrachtet man viele Orte ja aus einer besonderen Perspektive - welche Region fasziniert dich am&nbsp;meisten
+        answer: "Ganz klar: Umbien! Mit dieser Region fühle ich mich besonders verbunden, weil ich dort als Studentin oft an Ausgrabungen beteiligt war. Umbrien ist wirklich ein Kleinod im Zentrum Italiens, ein Ort reich an Geschichte und Kultur, wo Kunst und Natur harmonisch interagieren. In Felsen gebaute Dörfer zwischen großteils wilden und unberührten Naturparks machen die Region zu einem ganz besonderen&nbsp;Ort."
 
       - id: 2
-        question: "Welchen Ort sollte man für einen Kurztrip ins Auge fassen"
-        answer: "Ich würde jedem Orvieto ans Herz legen – die Stadt in Umbrien kann auch sehr gut von Rom aus besucht werden. Neben beeindruckenden Sehenswürdigkeiten, wie z.B. dem Dom, lohnt sich vor allem eine Führung von Orvieto Underground: Steigen Sie in die Brunnen hinab und erkunden Sie die unterirdische Stadt."
+        question: "Welchen Ort sollte man für einen Kurztrip ins Auge&nbsp;fassen"
+        answer: "Ich würde jedem Orvieto ans Herz legen – die Stadt in Umbrien kann auch sehr gut von Rom aus besucht werden. Neben beeindruckenden Sehenswürdigkeiten, wie z.B. dem Dom, lohnt sich vor allem eine Führung von Orvieto Underground: Steigen Sie in die Brunnen hinab und erkunden Sie die unterirdische&nbsp;Stadt."
 
       - id: 3
         question: "Welches regionale Gericht empfiehlst du Italien-Besuchern"
-        answer: "Ein typisch umbrisches Gericht ist Palomba alla Leccarda: Taube in Olivensoße. Vegetariern würde ich Strangozzi in Trüffelsoße empfehlen, da die Qualität des Trüffels in Umbrien ausgezeichnet ist."
+        answer: "Ein typisch umbrisches Gericht ist Palomba alla Leccarda: Taube in Olivensoße. Vegetariern würde ich Strangozzi in Trüffelsoße empfehlen, da die Qualität des Trüffels in Umbrien ausgezeichnet&nbsp;ist."
 
       - id: 4
-        question: "Wann eignet sich Italien am besten für eine Reise"
-        answer: "In Italien gibt es zahlreiche Kulturschätze, die man das ganze Jahr über bewundern kann. Die Berge der Alpen und des Apennins sind definitiv zu allen Jahreszeiten eine wunderschöne Destination. Gibt es etwas schöneres als am Meer zu sein, wenn wenn der Strand nicht von Liegestühlen bedeckt ist und man ihn bei einem Spaziergang am Wasser ganz für sich haben kann?"
+        question: "Wann eignet sich Italien am besten für eine&nbsp;Reise"
+        answer: "In Italien gibt es zahlreiche Kulturschätze, die man das ganze Jahr über bewundern kann. Die Berge der Alpen und des Apennins sind definitiv zu allen Jahreszeiten eine wunderschöne Destination. Gibt es etwas schöneres als am Meer zu sein, wenn wenn der Strand nicht von Liegestühlen bedeckt ist und man ihn bei einem Spaziergang am Wasser ganz für sich haben&nbsp;kann?"
 
 
 ################################################################################
@@ -99,20 +99,20 @@
     items:
 
       - id: 1
-        question: Welche Region in Italien könntest du immer wieder bereisen
-        answer: "Für mich umfasst Sizilien alles, was die Schönheit Italiens ausmacht: die Landschaft wechselt zwischen Bergen und traumhaft schönen Stränden, das Essen ist ausgezeichnet und die Insel ist Heimat unzähliger kultureller Schätze."
+        question: Welche Region in Italien könntest du immer wieder&nbsp;bereisen
+        answer: "Für mich umfasst Sizilien alles, was die Schönheit Italiens ausmacht: die Landschaft wechselt zwischen Bergen und traumhaft schönen Stränden, das Essen ist ausgezeichnet und die Insel ist Heimat unzähliger kultureller&nbsp;Schätze."
 
       - id: 2
-        question: "Hast du einen Tipp für einen Städte-Kurztrip für uns"
-        answer: "Matera sollte man unbedingt wegen seiner reichen Geschichte und Kultur besuchen und Alberobello in Apulien um die Traditionen kennenzulernen und die hervorragende Küche zu probieren."
+        question: "Hast du einen Tipp für einen Städte-Kurztrip für&nbsp;uns"
+        answer: "Matera sollte man unbedingt wegen seiner reichen Geschichte und Kultur besuchen und Alberobello in Apulien um die Traditionen kennenzulernen und die hervorragende Küche zu&nbsp;probieren."
 
       - id: 3
-        question: "Was macht für dich die Authentizität Italiens aus"
-        answer: "Jeder Italien-Urlauber sollte auch mal Orte abseits der bekannten touristischen Pfade besuchen, denn hier finden sich die wahren Schätze. An so vielen Ecken Italiens finden sich Kultur, einzigartige Landschaften und kulinarische Hochgenüsse, die man in dieser Dichte an keinem anderen Ort erfahren kann."
+        question: "Was macht für dich die Authentizität Italiens&nbsp;aus"
+        answer: "Jeder Italien-Urlauber sollte auch mal Orte abseits der bekannten touristischen Pfade besuchen, denn hier finden sich die wahren Schätze. An so vielen Ecken Italiens finden sich Kultur, einzigartige Landschaften und kulinarische Hochgenüsse, die man in dieser Dichte an keinem anderen Ort erfahren&nbsp;kann."
 
       - id: 4
-        question: "Hast du einen Geheimtipp für uns"
-        answer: "Ich empfehle jedem Italien-Besucher, den Menschen vor Ort zu begegnen, zum Beispiel bei einem Kochkurs oder bei einer Bootsfahrt mit Einheimischen. So lernt man Italien doch von seiner schönsten und authentischsten Seite kennen."
+        question: "Hast du einen Geheimtipp für&nbsp;uns"
+        answer: "Ich empfehle jedem Italien-Besucher, den Menschen vor Ort zu begegnen, zum Beispiel bei einem Kochkurs oder bei einer Bootsfahrt mit Einheimischen. So lernt man Italien doch von seiner schönsten und authentischsten Seite&nbsp;kennen."
 
 
 ################################################################################

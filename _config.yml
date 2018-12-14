@@ -1,8 +1,8 @@
 # Site settings
 title: Italien
 client:
-  name: Client Name
-  link: "#client-name"
+  name: Unentdeckte Schätze
+  link: "https://www.enit.de/"
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
   Begeben Sie sich auf die Spuren der Etrusker, finden Sie einzigartige Relikte vergangener Zeiten wie die apulischen Trulli, erleben Sie das authentische Flair italienischer Dörfer in kleinen Borghi oder spüren Sie beim Genuss der Cucina italiana das mediterrane Lebensgefühl

@@ -34,8 +34,8 @@
   font-family: $font-title-01;
 
   font-size: $s4; // default size
-  &--lg     { font-size: $s6; line-height: 1.4em;
-  font-weight: 400;}
+  &--lg     { font-size: $s3; line-height: 1.4em;
+  font-weight: 700; text-transform: uppercase;}
   &--sm     { font-size: $s2; }
   @include bp($md){
     font-size: $s3; // default size
@@ -85,23 +85,22 @@
   font-family: $font-serif;
   font-weight: 300;
   letter-spacing: -.02em;
+  font-size: $s8;
+  line-height: .95em;
   font-style: italic;
-  font-size: $s9;
-  line-height: 1em;
-  @include bp($md){ font-size: $s8; }
-  @include bp($xl){ font-size: $s11; letter-spacing: 2px; line-height: 1.3em;
+  @include bp($md){ font-size: $s12;  }
+  @include bp($xl){ font-size: $s11; letter-spacing: 2px; line-height: 1em;
   }
 
 }
 
 .serif-title {
 
-  // custom banner headline
+  // custom intro headline
   font-family: $font-serif;
   font-weight: 300;
   letter-spacing: -.02em;
   color: $i-blue;
-  //font-style: italic;
   font-size: $s6;
   @include bp($md){ font-size: $s8; }
   @include bp($xl){ font-size: $s7; letter-spacing: 1px; line-height: 1em;

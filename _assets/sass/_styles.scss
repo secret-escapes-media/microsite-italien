@@ -2,21 +2,20 @@
 
 
 /* ==========================================================================
-   Typo
+   Dividers & Alignment
    ========================================================================== */
 
    .bv-title-divider::after{
      content: url(../img/icons/divider-w.svg);
      display: block;
-     margin-top: -5px;
-     //margin-bottom: -20px;
+     margin-top: 3px;
+     margin-bottom: -2px;
      transform: scale(.65);
 
      @include bp($md) {
        content: url(../img/icons/divider-w.svg);
        display: block;
        margin-top: 10px;
-       //margin-bottom: -20px;
        transform: scale(.5);
 
      }
@@ -25,11 +24,9 @@
        content: url(../img/icons/divider-w.svg);
        display: block;
        margin-top: 2px;
-       //margin-bottom: -20px;
        transform: scale(.3);
 
      }
-
    }
 
 
@@ -54,7 +51,6 @@
 
      .bv-mob-left {
      text-align: left;
-     //color: #ff0;
      }
    }
 
@@ -67,12 +63,11 @@
       .bv-mob-center {
       text-align: center;
       margin-left: 0;
-      //color: #ff0;
       }
     }
 
 /* ==========================================================================
-   Parallax
+   Parallax & DRAWINGS
    ========================================================================== */
 
 .bv-parallax{
@@ -143,65 +138,45 @@
 @media only screen and (max-width: 1024px) {
 
 .bv-remove-bg{
-
   background-image: none!important;
 
-  &--black{
+  &--blue{
     background-image: none!important;
-    background-color: #000;}
+    background-color: $i-blue;}
 }
 
 .bv-parallax{
       background-attachment: scroll;
       background-size: cover;
 
-      &--left   {
-        background-attachment: scroll;
-        background-position: 32% 50%;
-        background-repeat: no-repeat;
-        background-size: cover;}
-
-
-      &--right   {
-        background-attachment: scroll;
-        background-position: 60% 50%;
-        background-repeat: no-repeat;
-        background-size: cover;}
-
-
-
     &--darkest   {
       background-attachment: scroll;
       background-size: cover;
     }
-      &--darker   {
-        background-attachment: scroll;
-        background-size: cover;
-      }
-      &--dark   {
-        background-attachment: scroll;
-        background-size: cover;
-        }
-
-      &--lighter   {
-        background-attachment: scroll;
-        background-size: cover;
-        background-color: none;
-
-      }
-      &--light   {
-        background-attachment: scroll;
-        background-size: cover;
-        background-color: none;
-     }
-     &--white   {
-       background-attachment: scroll;
-       background-size: cover;
-       background-color: none;
+    &--darker   {
+      background-attachment: scroll;
+      background-size: cover;
     }
-
+    &--dark   {
+      background-attachment: scroll;
+      background-size: cover;
     }
-
+    &--lighter   {
+      background-attachment: scroll;
+      background-size: cover;
+      background-color: none;
+    }
+    &--light   {
+      background-attachment: scroll;
+      background-size: cover;
+      background-color: none;
+    }
+    &--white   {
+     background-attachment: scroll;
+     background-size: cover;
+     background-color: none;
+    }
+  }
 }
 
 
@@ -216,131 +191,40 @@
 
 
 /* ==========================================================================
-bv-collapsible
+ Collapsible
 ========================================================================== */
 
 
-/* Style the element that is used to open and close the accordion class */
-p.accordion {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-    margin-bottom:10px;
-}
-
-/* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-p.accordion.active, p.accordion:hover {
-    background-color: #ddd;
-}
-
-/* Unicode character for "plus" sign (+) */
-p.accordion:after {
-    content: '\2795';
-    font-size: 13px;
-    color: #777;
-    float: right;
-    margin-left: 5px;
-}
-
-/* Unicode character for "minus" sign (-) */
-p.accordion.active:after {
-    content: "\2796";
-}
-
-/* Style the element that is used for the panel class */
-
-div.panel {
-    padding: 0 18px;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: 0.4s ease-in-out;
-    opacity: 0;
-    margin-bottom:10px;
-}
-
-div.panel.show {
-    opacity: 1;
-    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
-}
-
-/******/
 
 .bv-collapsible {
 
   cursor: pointer;
-  padding: 12px 0;
-  width: 220px;
-  border: none;
-  text-align: center;
-  outline: none;
-  color: $white;
-  background-color: $i-blue;
-  //border-bottom: 2px solid $i-blue;
-  border-radius: 4px;
-  margin-bottom: 30px;
-}
 
-
-
-
-.bv-active, .bv-collapsible:hover {
-
-  //background-color: #f00;
 }
 
 .bv-collapsible:after {
-  //transform:  rotate(-90deg);
-  //display: block;
   content: ' ansehen ';
-  //background-image: url('../img/icons/arrow-left.svg');
-  /*background-size: 8px 18px;
-  height: 18px;
-  width: 8px;
-  margin: -21px 0 0 120px;*/
-
 }
 
 .bv-active:after {
-//  transform:  rotate(90deg);
-  //display: block;
-  content: ' schließen ';
-  //background-image: url('../img/icons/arrow-left.svg');
-  /*background-size: 8px 18px;
-  height: 18px;
-  width: 8px;*/
-  //margin: -22px 0 0 90px;
-
+  content: ' schliessen ';
 }
 
 .bv-content {
-  //padding: 0 18px;
   max-height: 0;
   overflow: hidden;
   transition: all 0.5s ease-out;
 }
 
 
-
-
 /* ==========================================================================
 Insidertipps
 ========================================================================== */
-.bv-section-insider{
-  color:$white;
-  background-color: #333;
-
-}
 
 .bv-img-insider{
   width: 75%;
   max-width: $lg;
+
   @include bp($xl) {
     width: 25%;
     max-width: none;
@@ -352,7 +236,10 @@ Insidertipps
   border: 4px $white solid;
 }
 
-/*************** offer tag for included tag *******************/
+/* ==========================================================================
+Flight tag - Offers
+========================================================================== */
+
 .flight-tag {
   position: absolute;
   top: $s-2;

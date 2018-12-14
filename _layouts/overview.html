@@ -3,10 +3,11 @@ layout: default
 ---
 
 
-<div class=" vpad--xxl {{page.colour}} bv-parallax bv-drawing" style="background-image: url('{{site.img}}/icons/{{page.drawing}}.png');">
+<div class=" vpad--xxl {{page.colour}} bv-parallax bv-drawing bv-remove-bg" style="background-image: url('{{site.img}}/icons/{{page.drawing}}.png');">
   <div class="container">
     <div class="width width--xl text--serif text--left text--normal text--xxl text--white " >
       <div class=" text--serif-lg bv-lineheight">{{page.intro-title}}</div>
+      <div class="space--sm"></div>
        <div class="text--serif-italic">{{page.intro}}</div>
     </div>
   </div>
@@ -17,17 +18,15 @@ layout: default
 
   {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
 
-
   {% for destination in destinations %}
-
 
   <div class="bob  {% cycle '', 'bob--swap' %} ">
     <div class="bob__img">
       <a href="{{site.baseurl}}{{destination.url}}"  class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/{{destination.id}}.jpg');" ></a>
     </div>
     <div class="bob__text">
-      <h3 class="title title--lg ">{{destination.title}}</h3>
-      <p class="text--md">{{destination.summary}}</p>
+      <h3 class="title title--lg bv-headline-divider ">{{destination.title}}</h3>
+      <p class="text text--xxl">{{destination.summary}}</p>
       <div class="space--lg"></div>
       <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--i-blue" >{{destination.cta}}</a>
     </div>
@@ -36,7 +35,5 @@ layout: default
   {% endfor %}
 
 </div>
-
-
 
 {% include page/insider-banner.html %}

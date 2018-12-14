@@ -1,7 +1,7 @@
 - id: one
   title: Matera
   img: bg-img1
-  description: "Matera, auch zweites Bethlehem genannt, ist Europäische Kulturhauptstadt 2019. Die Stadt in der süditalienischen Region Basilikata gilt als eine der ältesten Städte Italiens und beeindruckt vor allem mit den sogenannten Sassi, in den Fels geschlagenen Höhlen, die noch bis in die 1950er Jahre bewohnt waren. Bei einem Spaziergang durch das historische Zentrum mit seinem dichten Netz an engen Gassen werden Sie das Gefühl haben, Sie seien in die Vergangenheit gereist. Nicht ohne Grund wurden hier z.B. Filme wie „Die Passion Christi“ von Mel Gibson gedreht. Heute befinden sich in den restaurierten Felshöhlen Restaurants, Bars und Hotels, die einen ganz besonderen Charme versprühen."
+  description: "Matera, auch zweites Bethlehem genannt, ist Europäische Kulturhauptstadt 2019. Die Stadt in der süditalienischen Region Basilikata gilt als eine der ältesten Städte Italiens und beeindruckt vor allem mit den sogenannten Sassi, in den Fels geschlagenen Höhlen, die noch bis in die 1950er Jahre bewohnt waren. Bei einem Spaziergang durch das historische Zentrum mit seinem dichten Netz an engen Gassen werden Sie das Gefühl haben, Sie seien in die Vergangenheit gereist. Nicht ohne Grund wurden hier z.B. Filme wie „Die Passion Christi“ von Mel Gibson gedreht. Heute befinden sich in den restaurierten Felshöhlen Restaurants, Bars und Hotels, die einen ganz besonderen Charme&nbsp;versprühen."
 
 
 
@@ -11,7 +11,7 @@
 - id: two
   title: Palermo
   img: bg-img2
-  description: "Die Hauptstadt Siziliens ist Italienische Kulturhauptstadt 2018. Seine Besucher zieht Palermo mit einem faszinierenden Reichtum an Kulturschätzen und seiner lebhaften Atmosphäre in den Bann. Sehenswert ist vor allem das 2015 in die UNESCO-Weltkulturerbe-Liste aufgenommene arabisch-normannische Erbe, welches auf das Königreich von 1130 bis 1194 zurückgeht und ein außergewöhnliches Beispiel der sozio-kulturellen Verschmelzung zwischen westlicher, islamischer und byzantinischer Kultur auf der Insel symbolisiert. Einen abwechslungsreichen Veranstaltungskalender mit Konzerten, Ausstellungen und Festivals vor historischer Kulisse hat Palermo ebenfalls zu bieten."
+  description: "Die Hauptstadt Siziliens ist Italienische Kulturhauptstadt 2018. Seine Besucher zieht Palermo mit einem faszinierenden Reichtum an Kulturschätzen und seiner lebhaften Atmosphäre in den Bann. Sehenswert ist vor allem das 2015 in die UNESCO-Weltkulturerbe-Liste aufgenommene arabisch-normannische Erbe, welches auf das Königreich von 1130 bis 1194 zurückgeht und ein außergewöhnliches Beispiel der sozio-kulturellen Verschmelzung zwischen westlicher, islamischer und byzantinischer Kultur auf der Insel symbolisiert. Einen abwechslungsreichen Veranstaltungskalender mit Konzerten, Ausstellungen und Festivals vor historischer Kulisse hat Palermo ebenfalls zu&nbsp;bieten."
 
 
 
@@ -32,7 +32,7 @@
 - id: four
   title: Alberobello
   img: bg-img4
-  description: "Die apulische Stadt Alberobello ist die Hauptstadt der Trulli: Das historische Stadtzentrum besteht gänzlich aus diesen weißen, kegelförmigen Bauten, die es so berühmt und einzigartig machen. Die ältesten heute noch vorhandenen Trulli stammen aus dem 14. Jahrhundert und sind Teil des UNESCO-Weltkulturerbes. Diese besondere Bauart ohne Mörtel soll auf einem früheren Gesetz beruhen, wonach es Bauern nur erlaubt war diese Bauten zu errichten, um eine vom Königreich Neapel erlassene Steuer für neu errichtete Siedlungen zu umgehen. Spazieren Sie durch die engen Gassen und spüren Sie den besonderen Charme dieser Stadt."
+  description: "Die apulische Stadt Alberobello ist die Hauptstadt der Trulli: Das historische Stadtzentrum besteht gänzlich aus diesen weißen, kegelförmigen Bauten, die es so berühmt und einzigartig machen. Die ältesten heute noch vorhandenen Trulli stammen aus dem 14. Jahrhundert und sind Teil des UNESCO-Weltkulturerbes. Diese besondere Bauart ohne Mörtel soll auf einem früheren Gesetz beruhen, wonach es Bauern nur erlaubt war diese Bauten zu errichten, um eine vom Königreich Neapel erlassene Steuer für neu errichtete Siedlungen zu umgehen. Spazieren Sie durch die engen Gassen und spüren Sie den besonderen Charme dieser&nbsp;Stadt."
 
 
 
@@ -42,7 +42,7 @@
 - id: five
   title: Assisi
   img: bg-img5
-  description: "Die mittelalterliche Stadt Assisi gehört aufgrund ihrer historischen Kontinuität seit dem Jahr 2000 zum italienischen UNESCO-Weltkulturerbe. Insbesondere die Basilika San Francesco repräsentiert eine Sammlung von Meisterwerken der menschlichen Schöpferkraft und ist ein hervorragendes Beispiel architektonischer Komplexität, welches die Entwicklung der Kunst und Architektur bedeutend beeinflusst hat. Architekten und Maurer sowie Steinmetze haben im Laufe der Jahre Assisi einen unvergleichlichen Anblick verliehen. Der Heilige Franziskus geprägt, Begründer des Franziskaner Ordens und die Heilige Klara, Begründerin des Klarissenordens, prägten die Geschichte dieser Stadt und machten sie zu einem der berühmtesten Wallfahrtsorte Italiens."
+  description: "Die mittelalterliche Stadt Assisi gehört aufgrund ihrer historischen Kontinuität seit dem Jahr 2000 zum italienischen UNESCO-Weltkulturerbe. Insbesondere die Basilika San Francesco repräsentiert eine Sammlung von Meisterwerken der menschlichen Schöpferkraft und ist ein hervorragendes Beispiel architektonischer Komplexität, welches die Entwicklung der Kunst und Architektur bedeutend beeinflusst hat. Architekten und Maurer sowie Steinmetze haben im Laufe der Jahre Assisi einen unvergleichlichen Anblick verliehen. Der Heilige Franziskus, Begründer des Franziskaner Ordens und die Heilige Klara, Begründerin des Klarissenordens, prägten die Geschichte dieser Stadt und machten sie zu einem der berühmtesten Wallfahrtsorte&nbsp;Italiens."
 
 
 
@@ -52,7 +52,7 @@
 - id: six
   title: Verona
   img: bg-img6
-  description: "Auf einer Landzunge des Flusses Adige erhebt sich die „italienische Stadt der Liebe”. Gegründet vor gut 2.000 Jahren entwickelte sich Verona während der Römerzeit zu einem städtischen Zentrum, von dem heute noch prunkvolle Bauten zeugen, wie z.B. das römische Amphitheater, das Stadttor Porta dei Borsari, die archäologische Ausgrabungsstätte Porta Leoni und das Wahrzeichen der Stadt: die Arena aus dem 1. Jahrhundert vor Christus. Nach eingehender Restauration und seit der Erstaufführung der Verdi-Oper Aida zählt sie zu einer der beeindruckensten Freilichtbühnen Italiens und ist jährlich Schauplatz der Opernfestspiele. Sehenswert sind auch die Burgen und Grabmäler der Skaliger. Anschließend locken die Cafés auf Plätzen wie der Piazza Bra, der Piazza Dante und der Piazza Erbe zu einem Aperol Sprizz."
+  description: "Auf einer Landzunge des Flusses Adige erhebt sich die „italienische Stadt der Liebe”. Gegründet vor gut 2.000 Jahren entwickelte sich Verona während der Römerzeit zu einem städtischen Zentrum, von dem heute noch prunkvolle Bauten zeugen, wie z.B. das römische Amphitheater, das Stadttor Porta dei Borsari, die archäologische Ausgrabungsstätte Porta Leoni und das Wahrzeichen der Stadt: die Arena aus dem 1. Jahrhundert vor Christus. Nach eingehender Restauration und seit der Erstaufführung der Verdi-Oper Aida zählt sie zu einer der beeindruckensten Freilichtbühnen Italiens und ist jährlich Schauplatz der Opernfestspiele. Sehenswert sind auch die Burgen und Grabmäler der Skaliger. Anschließend locken die Cafés auf Plätzen wie der Piazza Bra, der Piazza Dante und der Piazza Erbe zu einem Aperol&nbsp;Sprizz."
 
 
 

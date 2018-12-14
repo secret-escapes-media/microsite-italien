@@ -1,4 +1,6 @@
 .btn {
+
+  font-family: $font-title-01;
   position: relative;
   display: inline-block;
   padding: $s2 $s5;
@@ -7,7 +9,7 @@
   font-size: $s-1;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: .25em;
+  letter-spacing: .2em;
   line-height: 1.33;
   border-radius: 3px;
   cursor: pointer;
@@ -17,13 +19,13 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; } }
 
-  &--i-blue { background-color: $i-blue;
+  &--i-blue { background-color: $i-blue; font-size: 13px;
     &:hover { background-color: $i-blue; }}
 
   &--i-yellow { background-color: $i-yellow; color: $black;
     &:hover { background-color: $i-yellow; }}
 
-  &--i-red { background-color: $i-red;
+  &--i-red { background-color: $i-red; font-size: 13px;
     &:hover { background-color: $i-red; }}
 
   &--i-green { background-color: $i-green;
