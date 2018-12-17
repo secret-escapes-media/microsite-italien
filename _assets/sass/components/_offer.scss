@@ -31,18 +31,18 @@ $offer-max-width: 600px;
     }
   }
   &__content {
-    padding: $s2;
-    border-left: 1px solid $grey-lighter;
-    border-right: 1px solid $grey-lighter;
-    border-bottom: 1px solid $grey-lighter;
+    padding: $s3;
+    /*border-left: 1px solid $grey-lighter;
+    border-right: 1px solid $grey-lighter;*/
+    border-bottom: 2px solid $grey-lighter;
     background-color: $white;
   }
   &__location {
     margin-top: .9em;
     margin-left: 1.5em;
-    margin-bottom: 1.15em;
+    margin-bottom: .8em;
     text-indent: -1.5em;
-    font-size: 0.75em;
+    font-size: 0.8em;
     line-height: 1.5;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -87,7 +87,7 @@ $offer-max-width: 600px;
     min-width: $circle-height;
     min-height: $circle-height;
     margin-left: $s-3;
-    border: 1px solid $orange;
+    border: 1px solid $i-red;
     border-radius: $circle-height;
     background-repeat: no-repeat;
     background-image: url('../img/icons/arrow-right-orange.svg');
@@ -105,9 +105,9 @@ $offer-max-width: 600px;
       text-align: center;
       color: #fff;
       font-weight: 600;
-      letter-spacing: 0;
+      letter-spacing: -.1rem;
       line-height: $circle-height;
-      background-color: $orange;
+      background-color: $i-red;
       border-radius: $circle-height;
     }
   }
@@ -124,7 +124,7 @@ $offer-max-width: 600px;
     background-color: $grey-lighter;
   }
   &__price {
-    color: $orange;
+    color: $i-red;
     font-size: $s2;
     font-weight: 600;
     line-height: 1;

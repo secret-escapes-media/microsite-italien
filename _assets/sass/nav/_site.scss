@@ -19,7 +19,7 @@ $nav-color:          $white;
 .site-nav {
   position: relative;
   background-color: rgba($nav-color,1);
-  border: 1px solid rgba($black,.05);
+  //border: 1px solid rgba($black,.05);
   text-align: center;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
@@ -95,8 +95,8 @@ $nav-color:          $white;
     color: rgba($black,.6);
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { color: rgba($i-blue,1);  background-color: rgba($black,.05);  }//border-bottom: 2px solid $i-blue; padding-top:2px; color: rgba($i-blue,1);
-    .no-touch &:hover {  color: rgba($i-blue,1);  background-color: rgba($black,.05);}
+    &.is-current      { color: rgba($i-blue,1);  background-color: rgba($grey-lightest,1);  }//border-bottom: 2px solid $i-blue; padding-top:2px; color: rgba($i-blue,1);
+    .no-touch &:hover {  color: rgba($i-blue,1);  background-color: rgba($grey-lightest,1);}
     @include bp($nav-width-bp){
       padding-left: $s0;
       padding-right: $s0;
