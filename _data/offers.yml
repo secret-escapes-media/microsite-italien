@@ -1,230 +1,731 @@
 - title: Ruhe und Einkehr im Designhimmel von Südtirol
+  number: 1
   id: My-Arbor
   location: My Arbor, St. Andrä, Brixen, Trentino-Südtirol, Italien
   description: Natur, Entspannung & Komfort nahe Brixen – inkl. Halbpension, Spa-Gutschein & Extras
   price: 134
   price-description: pro Person - basierend auf 2 Personen
   saved: 24
-  number: 1
   flight-tag: #
+  show-offer: true
   link: "http://bit.ly/2SUSlTC"
 
 - title: Alpenauszeit im Wander- & Schneeparadies
+  number: 2
   id: Hotel-Valserhof
   location: Hotel Valserhof, Vals/Mühlbach, Trentino-Südtirol, Italien
   description: Inkl. Halbpension, Spa-Zugang auch am Abreisetag, 1 Flasche Wein, 1 Spa-Gutschein & Extras
   price: 94
   price-description: pro Person - basierend auf 2 Personen
   saved: 36
-  number: 2
   flight-tag: #
+  show-offer: true
   link: "http://bit.ly/2EoYYtb"
 
 - title: Kunst & Design im Süden Roms
+  number: 3
   id: Hotel-Pulitzer-Roma
   location: Hotel Pulitzer Roma, Rom, Italien
   description: Superior-Zimmer in Roms Finanzviertel – inkl. Frühstück & Begrüßungsgetränk
   price: 40
   price-description: pro Person - basierend auf 2 Personen
   saved: 44
-  number: 3
   flight-tag: #
+  show-offer: true
   link: http://bit.ly/2CjawwH
 
 - title: Spa-Juwel in Weiß am Golf von Neapel
+  number: 4
   id: Towers-Hotel
   location: Towers Hotel Stabiae Sorrento Coast, Castellammare di Stabia, Kampanien, Italien
   description: Inkl. Frühstück, Spa- sowie Restaurant-Gutschein & weiteren Extras
   price: 48
   price-description: pro Person - basierend auf 2 Personen
   saved: 68
-  number: 4
   flight-tag: #
+  show-offer: true
   link: http://bit.ly/2Lkc4tl
 
 - title: Bergromantik in den Dolomiten
+  number: 5
   id: Romantic-Hotel
   location: Romantic Hotel Posta 1899, Montagnaga, Trentino, Italien
   description: Inkl. Frühstück oder Halbpension, spätem Check-out, Spa-Gutschein & Extras
   price: 43
   price-description: pro Person - basierend auf 2 Personen
   saved: 62
-  number: 5
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2SVU8YB
 
 - title: Märchenhafter Mailand-Trip
+  number: 6
   id: Chateau-Monfort
   location: Château Monfort, Mailand, Lombardei, Italien
   description: Inkl. 1 Glas Prosecco, spätem Check-out, Spa-Zugang, Dinner-Ermäßigung & optionalem Frühstück
   price: 86
   price-description: pro Person - basierend auf 2 Personen
   saved: 48
-  number: 6
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2A3RCbP
 
 - title: Toskanisches Thermal-Hotel mit natürlicher Grotte
+  number: 7
   id: Grotta-Giusti
   location: Grotta Giusti, Monsummano Terme, Toskana, Italien
   description: Inkl. Frühstück oder Halbpension mit 4-Gänge-Dinner, Dampfbad-Ermäßigung & Extras
   price: 72
   price-description: pro Person - basierend auf 2 Personen
   saved: 53
-  number: 7
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2EAGPcZ
 
 - title: Römische Grandezza mit Glamourfaktor
+  number: 8
   id: Leons-Place
   location: Leon’s Place, Rom, Italien
   description: Inkl. Frühstück, 1x Spa-Zugang & Begrüßungsgetränk
   price: 54
   price-description: pro Person - basierend auf 2 Personen
   saved: 40
-  number: 8
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2rF659e
 
 - title: Italiens Herzlichkeit auf apulische Art
+  number: 9
   id: La-Dimora
   location: La Dimora delle Grazie Relais De Charme, San Cesario di Lecce, Apulien, Italien
   description: Individuell designte Zimmer, inkl. Frühstück, Begrüßungsgetränk, spätem Check-out & Extras
   price: 24
   price-description: pro Person - basierend auf 2 Personen
   saved: 73
-  number: 9
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2PIFQby
 
 - title: Mitten im zauberhaften Venedig
+  number: 10
   id: Hotel-Locanda
   location: Hotel Locanda Vivaldi, Venedig, Italien
   description: Residieren, wo einst Antonio Vivaldi lebte – inkl. Frühstück & 1x Casino-Eintritt
   price: 48
   price-description: pro Person - basierend auf 2 Personen
   saved: 38
-  number: 10
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2UTn0CH
 
 - title: Sizilianischer Landsitz nahe Ragusa
+  number: 11
   id: Relais-Chiaramonte
   location: Relais Chiaramonte, Ragusa, Sizilien, Italien
   description: Naturliebe im sizilianischen Val di Noto inkl. Frühstück, Begrüßungsgetränk & Extras
   price: 42
   price-description: pro Person - basierend auf 2 Personen
   saved: 60
-  number: 11
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2QBjn5x
 
 - title: Belle-Époque-Refugium am Lago Maggiore
+  number: 12
   id: Villa-Carlotta
   location: Hotel Villa Carlotta, Belgirate, Lago Maggiore, Piemont, Italien
   description: Italienische Eleganz am Lago Maggiore – inkl. Frühstück & Extras
   price: 40
   price-description: pro Person - basierend auf 2 Personen
   saved: 35
-  number: 12
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2Gz991h
 
 - title: Stylische Apartments am Comer See
+  number: 13
   id: La-Perla
   location: La Perla by Sedar, Como, Lombardei, Italien
   description: Modernes Apartment direkt am Ufer des Comer Sees mit spätem Check-out
   price: 48
   price-description: pro Person - basierend auf 2 Personen
   saved: 47
-  number: 13
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2SQE2PR
 
 - title: Maritime Erholung an der Adria
+  number: 14
   id: Nautilus-Family-Hotel
   location: Nautilus Family Hotel, Pesaro, Marken, Italien
   description: Executive-Zimmer inkl. Frühstück oder All-inclusive soft, Spa-Guthaben & Begrüßungsgetränk
   price: 58
   price-description: pro Person - basierend auf 2 Personen
   saved: 34
-  number: 14
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2EzSb0L
 
 - title: In der Città Alta von Bergamo residieren
+  number: 15
   id: Fuoriporta-House
   location: Fuoriporta House, Bergamo, Lombardei, Italien
   description: Charmantes Boutiquehotel in der Altstadt von Bergamo – inkl. Frühstück & Begrüßungsgetränk
   price: 58
   price-description: pro Person - basierend auf 2 Personen
   saved: 47
-  number: 15
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2UO8Q5v
 
 - title: Genusvolle Landpartie auf toskanische Art
+  number: 16
   id: Relais-Villa
   location: Relais Villa Belvedere, Incisa in Val d’ Arno, Toskana, Italien
   description: Superior-Apartments mit authentischem Charme – inkl. Frühstück & Begrüßungsaperitif
   price: 44
   price-description: pro Person - basierend auf 2 Personen
   saved: 36
-  number: 16
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2QWWw3N
 
 - title: 5*-Hotel mit prämiertem Spa & Restaurant
+  number: 17
   id: Terme-Manzi-Hotel
   location: Terme Manzi Hotel & Spa, Ischia, Italien
   description: Inkl. Frühstück, 1x Massage, Zugang zu Strand, Pools & Spa sowie Dinner-Option
   price: 78
   price-description: pro Person - basierend auf 2 Personen
   saved: 44
-  number: 17
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2QWXywH
 
 - title: Thermenhotel nahe Venedig
+  number: 18
   id: Radisson-Blu
   location: Radisson Blu Resort, Terme di Galzignano, Galzignano Terme, Padua, Venetien, Italien
   description: Inkl. Frühstück oder Halbpension, Thermen-Zugang, Begrüßungsgetränk & Extras
   price: 44
   price-description: pro Person - basierend auf 2 Personen
   saved: 61
-  number: 18
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2rE78q2
 
 - title: Mediterrane Eleganz auf Sardinien
+  number: 19
   id: Grand-Hotel
   location: Grand Hotel Poltu Quatu, Arzachena, Sardinien, Italien
   description: Elegantes Classic- oder Superior-Zimmer – inkl. Halbpension & Aperitif zur Begrüßung
   price: 112
   price-description: pro Person - basierend auf 2 Personen
   saved: 32
-  number: 19
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2rFlmHp
 
 - title: Natur & Idylle am Gardasee
+  number: 20
   id: Hotel-Orione
   location: Hotel Orione, Castelletto di Brenzone, Gardasee, Italien
   description: Romantische Tage inmitten beeindruckender Natur – inkl. Halbpension & spätem Check-out
   price: 52
   price-description: pro Person - basierend auf 2 Personen
   saved: 39
-  number: 20
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2A12HKu
 
 - title: Die weiße Villa auf Sardinien
+  number: 21
   id: Hotel-La-Coluccia
   location: Hotel La Coluccia, Santa Teresa Gallura, Sardinien, Italien
   description: Hotel in Toplage an Sardiniens Küste – inkl. Frühstück Begrüßungsgetränk & Spa-Ermäßigung
   price: 84
   price-description: pro Person - basierend auf 2 Personen
   saved: 31
-  number: 21
   flight-tag: #
+  show-offer: false
   link: http://bit.ly/2Cir1t6
+
+- title: Grandhotel auf den Acicastelloklippen bei Catania
+  number: 22
+  id: Hotel-Baia-Verde
+  location: Grand Hotel Baia Verde, Catania, Sizilien, Italien
+  description: Superior-Zimmer inkl. Frühstück oder Halbpension & Ermäßigungen auf Massage & Dinner
+  price: 50
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 56
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2QFdsMM
+
+- title: Alpiner Genuss im Südtiroler Spa-Refugium
+  number: 23
+  id: Tuberis-Nature
+  location: Tuberis Nature & Spa Resort, Taufers im Münstertal, Vinschgau, Südtirol, Italien
+  description: Modernes Wellnessresort – inkl. Halbpension mit 5-Gänge-Dinner, Spa-Gutschein & Extras
+  price: 92
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 46
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2CkFcxq
+
+- title: Charmantes Ski-Retreat in Norditalien
+  number: 24
+  id: Hotel-La-Vetta
+  location: Hotel La Vetta, San Domenico, Italien
+  description: Naturerholung im rustikalen Berghotel inkl. Früstück o. Halbpension, Skipass & Extras
+  price: 34
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 83
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2Lo8ePR
+
+- title: Sardinien-Idyll mit Meerblick
+  number: 25
+  id: Arbatax-Park-Resort
+  location: Arbatax Park Resort - Borgo Cala Moresca, Arbatax, Sardinien, Italien
+  description: Inkl. Halbpension, Begrüßungsgetränk, spätem Check-out & Extras
+  price: 40
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 53
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2Bt2EqL
+
+- title: Designdomizil in der Ewigen Stadt
+  number: 26
+  id: Smooth-Hotel
+  location: Smooth Hotel Rome Termini, Rom, Italien
+  description: Inkl. Frühstück, Begrüßungsgetränk & Nutzung eines Samsung-Smartphones
+  price: 36
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 47
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2QA1mEK
+
+- title: Erholung im Naturhotel in den Bergen Südtirols
+  number: 27
+  id: Living-Hotel
+  location: La Casies Mountain Living Hotel, St. Magdalena, Südtirol, Italien
+  description: Inkl. Frühstück oder 3/4-Pension, Begrüßungsgetränk, Spa-Zugang, Massage-Gutschein & Extras
+  price: 104
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 33
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PJmB1G
+
+- title: Luxus-Wellnessurlaub im Alpenchalet
+  number: 28
+  id: Hotellerie-Mascognaz
+  location: Hotellerie de Mascognaz, Champoluc, Aostatal, Italien
+  description: Inkl. Halbpension, 1 Flasche Prosecco, 1x Massage, Spa-Zugang & Extras
+  price: 100
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 36
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2GrguQn
+
+- title: Wellness & Entspannung im Meraner Land
+  number: 29
+  id: Hotel-Mitterplatt
+  location: Hotel Mitterplatt - Schenna Resort, Schenna, Bozen, Südtirol, Italien
+  description: Inkl. Halbpension, 1 Flasche Prosecco, Zugang zum Wellness-, Spa- & Sauna-Bereich & Extras
+  price: 104
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 36
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2EAKUxG
+
+- title: Außergewöhnliches Design mitten in Rom
+  number: 30
+  id: iRooms-Pantheon
+  location: iRooms Pantheon & Navona, Rom, Italien
+  description: Inkl. Frühstück, unbegrenztem Film-Streaming, iPad-Nutzung & Extras
+  price: 42
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 55
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PPJRLG
+
+- title: Genusstage im Naturparadies Südtirols
+  number: 31
+  id: Paula-Wiesinger-Apartments
+  location: Paula Wiesinger Apartments & Suites, Seis am Schlern, Bozen, Südtirol, Italien
+  description: Aktiv- und Wohlfühlurlaub in den Dolomiten – inkl. Frühstück, Spa-Zugang & Extras
+  price: 70
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 49
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PIUFLf
+
+- title: Auszeit in den Südtiroler Alpen
+  number: 32
+  id: Alphotel-Stocker
+  location: Alphotel Stocker, Sand in Taufers, Bozen, Südtirol, Italien
+  description: Inkl. Halbpension, Spa-Zugang, 1 Flasche Wein & Begrüßungsgetränk
+  price: 60
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 68
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2S6zmFt
+
+- title: Alpines Hochgefühl in Trentino
+  number: 33
+  id: Al-Sole-Hotel
+  location: Al Sole Hotel Beauty & Vital, Fai della Paganella, Trentino-Südtirol, Italien
+  description: Inkl. Halbpension, Spa-Kit, täglicher Spa-Nutzung & Begrüßungsgetränk
+  price: 82
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 54
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2SUasc7
+
+- title: Alpenglück & Dolce Vita in den Dolomiten
+  number: 34
+  id: Hotel-Norge
+  location: Hotel Norge, Trient, Trentino-Südtirol, Italien
+  description: Inkl. Halbpension, Wellnessgutschein, Privatparkplatz, Wellness-Zugang & optionalen Extras
+  price: 54
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 77
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2RalNYF
+
+- title: Kulinarische Wellness-Pause im Piemont
+  number: 35
+  id: Albergo
+  location: Albergo dell’Agenzia, Bra, Piemont, Italien
+  description: Genussvolle Entschleunigung – inkl. Frühstück, optionalem Dinner, Spa-Zugang & Wein-Extras
+  price: 52
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 37
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2BqSozi
+
+- title: Eklektischer Mix aus Fashion, Kunst & Design
+  number: 36
+  id: nhow-Milano
+  location: nhow Milano, Mailand, Italien
+  description: Moderner Komfort in Mailands Szeneviertel – inkl. Frühstück, spätem Check-out & Extra
+  price: 44
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 44
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2EDeK4u
+
+- title: 5*-Villa im Landschaftsidyll der Toskana
+  number: 37
+  id: Villa-Maschere
+  location: Villa Le Maschere, Barberino di Mugello, Toskana, Italien
+  description: Superior-Zimmer mit Frühstück, Begrüßungsgetränk, täglichem Spa-Zugang & Extras
+  price: 68
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 35
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2S3evTz
+
+- title: Alpenglück im Adults-only-Hotel in Südtirol
+  number: 38
+  id: Post-Hotel
+  location: Post Hotel, Innichen, Bozen, Südtirol, Italien
+  description: Inkl. Halbpension, Spa-Zugang, Gutschein für Beauty-Anwendungen, Schneeschuh-Wanderung & Extras
+  price: 94
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 36
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2SUU6A5
+
+- title: Genussvolle Ruhepause im Piemont
+  number: 39
+  id: San-Sebastiano
+  location: Ca' San Sebastiano Wine Resort & Spa, Ombra Ronchiesa, Alessandria, Piemont, Italien
+  description: Inkl. Frühstück oder Halbpension, 1x Weinverkostung, Spa-Zugang & optionalen Extras
+  price: 45
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 56
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2UOozBL
+
+- title: Erholung zwischen Weinbergen & Olivenhainen
+  number: 40
+  id: Masseria-Fabriche
+  location: Masseria Le Fabriche, Maruggio, Apulien, Italien
+  description: Eleganter Landurlaub in Apulien – inkl. Frühstück, 1x Obst, 1 Flasche Wein & Fahrradverleih
+  price: 68
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 30
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2Exj3xo
+
+- title: La Dolce Vita am Hafen von Neapel
+  number: 41
+  id: Masseria-Fabriche
+  location: Palazzo Salgar, Neapel, Kampanien, Italien
+  description: Neapolitanischer Aufenthalt in zentraler Lage – inkl. Frühstück & Begrüßungsgetränk
+  price: 32
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 32
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2R5wsUf
+
+- title: Maritime Romantik in Italien
+  number: 42
+  id: Emotional-Hotel
+  location: Mediterraneo Emotional Hotel & Spa, Santa Margherita Ligure, Genua, Italien
+  description: Schön gelegenes Hotel mit historischem Ambiente – inkl. Frühstück & Spa-Zugang
+  price: 64
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 52
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2S6xZqr
+
+- title: Jugendstiltraum an Italiens Ostküste
+  number: 43
+  id: Grand-Hotel-Vinci
+  location: Grand Hotel da Vinci, Cesenatico, Emilia-Romagna, Italien
+  description: Italiens Adriaküste in stilvollem Ambiente erleben – inkl. Frühstück & Extras
+  price: 60
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 56
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2EAgdc7
+
+- title: Glorreiche Tage im Wasserreich Venedig
+  number: 44
+  id: Palazzo-Stern
+  location: Hotel Palazzo Stern, Venedig, Italien
+  description: Inkl. Frühstück, 1 Flasche Prosecco & 1x optionaler Casino-Zugang
+  price: 60
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 45
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PLVmUm
+
+- title: Mailand für kunstaffine Kosmopoliten
+  number: 45
+  id: Savona-Suites
+  location: Savona 18 Suites, Mailand, Lombardei, Italien
+  description: Moderne Home-Suite im Künstlerviertel Mailands mit italienischem Frühstück
+  price: 68
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 24
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2Saf7XI
+
+- title: Wellnesshotel vor malerischer Bucht in Ischia
+  number: 46
+  id: Continental-Mare
+  location: Hotel & Spa Continental Mare, Ischia, Golf von Neapel, Italien
+  description: Entspannung pur im Thermalwasserpool mit Meerblick – inkl. Frühstück & Beauty-Gutschein
+  price: 48
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 49
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PMeNvZ
+
+- title: Klassische Eleganz mitten in Florenz
+  number: 47
+  id: Grand-Hotel-Cavour
+  location: Grand Hotel Cavour, Florenz, Italien
+  description: Grand Hotel im Herzen der Kulturstadt – inkl. Begrüßungsgetränk, Restaurant-Ermäßigung & Extra
+  price: 42
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 39
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2LmDcaZ
+
+- title: Historisches Herrenhaus bei Padua
+  number: 48
+  id: Villa-Michelangelo
+  location: Hotel Villa Michelangelo, Arcugnano, Vicenza, Venetien, Italien
+  description: Inkl. Frühstück, Begrüßungsgetränk, Obstkorb, spätem Check-out & optionalem Dinner
+  price: 34
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 62
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2A5Ztpj
+
+- title: Landhaus-Idylle auf Sizilien
+  number: 49
+  id: Masseria-Piano
+  location: Masseria del Piano, Campofelice di Roccella, Sizilien, Italien
+  description: Sizilianische Atmosphäre mit allen Sinnen erleben – inkl. Frühstück & Extras
+  price: 50
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 44
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2rKnLk6
+
+- title: Romantisches Burghotel nahe Matera
+  number: 50
+  id: Masseria-Fortificata
+  location: Masseria Fortificata San Francesco, Contrada San Francesco, Matera, Basilicata, Italien
+  description: Residieren im eleganten Burghotel – inkl. Frühstück & Begrüßungsgetränk
+  price: 64
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 60
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2EukvRa
+
+- title: Schlossromantik in der Toskana
+  number: 51
+  id: Schlossromantik-Toskana
+  location: Villa il Poggiale, San Casciano in Val di Pesa, Toskana, Italien
+  description: Stilvoll residieren in einer historischen Villa – inkl. Frühstück, 1 Flasche Wein & Extras
+  price: 44
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 59
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2STyVhV
+
+- title: Landvillen-Romantik in der Lombardei
+  number: 52
+  id: Villa-Porro
+  location: Villa Porro Pirelli, Iduno Olona, Varese, Lombardei, Italien
+  description: Inkl. Frühstück, Begrüßungsgetränk & Restaurant-Ermäßigung
+  price: 42
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 47
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PIRxPG
+
+- title: Tradition trifft Design im Südtiroler Berghotel
+  number: 53
+  id: Wanderhotel-Buehelwirt
+  location: Wanderhotel Bühelwirt, Sankt Jakob im Ahrntal, Südtirol, Italien
+  description: Panorama-Zimmer mit Halbpension, Beauty-Gutschein, Sauna-Zugang & Extras
+  price: 80
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 25
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2A3w1A2
+
+- title: Bio-Wellness & naturnahe Erholung in Südtirol
+  number: 54
+  id: Bio-Vitalhotel
+  location: Tauber’s Bio Vitalhotel, Kiens, Pustertal, Trentino-Südtirol, Italien
+  description: Inkl. Halbpension, 1 Flasche Wein, Spa-Zugang, Wellnessgutschein & Extras
+  price: 74
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 45
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2QBYSpF
+
+- title: Golf- & Wellnessresort auf Sizilien
+  number: 55
+  id: Etna-Golf-Resort
+  location: Il Picciolo Etna Golf Resort & Spa, Rovittello, Sizilien, Italien
+  description: "Frühbucher-Special: Sizilien-Traum inkl. Frühstück, 1x Spa-Zugang, Begrüßungsgetränk & Extras"
+  price: 37
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 68
+  flight-tag: #
+  show-offer: false
+  link: http://bit.ly/2PGV4Ot
+
+- title: "Weinland Italien: Venetien, Toskana & Piemont"
+  number: 56
+  id: Venetien
+  location: Venetien, Toskana, Piemont – Italien
+  description: "Gourmet-Rundreise im PKW durch Norditalien mit Frühstück, Weinproben, Führungen & Extras"
+  price: 449
+  price-description: pro Person für 9 Nächte
+  saved: 26
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2EB2th6
+
+- title: "Strandresort mit Stil an Siziliens Südküste"
+  number: 57
+  id: Beach-Resort
+  location: Modica Beach Resort, Marina di Modica, Sizilien, Italien
+  description: "Sizilianischer Strand-Chic – inkl. Flügen, Mietwagen, Frühstück, 1x Dinner & Extras"
+  price: 569
+  price-description: pro Person für 7 Nächte
+  saved: 22
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2V12rEm
+
+- title: "Mediterraner Villen-Charme auf Ischia"
+  number: 58
+  id: Villa-Svizzera
+  location: Villa Svizzera, Ischia, Kampanien, Italien
+  description: "Inseltraum vor der Küste Neapels – inkl. Flügen, Transfers, Halbpension & Extras"
+  price: 549
+  price-description: pro Person für 7 Nächte
+  saved: 21
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2EqzR9z
+
+- title: "Der Zauber Venedigs"
+  number: 59
+  id: Hotel-Savoia
+  location: Hotel Savoia & Jolanda Venezia, Venedig, Italien
+  description: "Stilvolle Venedig-Reise inkl. Flügen, Privattransfers, Frühstück & 1 Flasche Prosecco"
+  price: 299
+  price-description: pro Person für 3 Nächte
+  saved: 18
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2rHqQRV
+
+- title: "Traumhafte Idylle an Sardiniens Ostküste"
+  number: 60
+  id: Hotel-Brancamaria
+  location: Hotel Brancamaria, Cala Gonone, Sardinien, Italien
+  description: "Inkl. Flügen, Frühstück, Begrüßungsgetränk, Restaurant-Ermäßigung & Extras"
+  price: 595
+  price-description: pro Person für 7 Nächte
+  saved: 19
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2Lnmjgu
+
+- title: "Historische Villa in der Toskana"
+  number: 61
+  id: Villa-San-Filippo
+  location: Villa San Filippo, Barberino di Val dʼElsa, Italien
+  description: "Genuss in atemberaubender Landschaft – inkl. Flügen, Mietwagen, Frühstück & Extras"
+  price: 529
+  price-description: pro Person für 7 Nächte
+  saved: 22
+  flight-tag: true
+  show-offer: false
+  link: http://bit.ly/2LrnBHg

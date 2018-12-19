@@ -1,13 +1,30 @@
 {% include offer/variables.html %}
-<div class=" vpad--xxl bg--light " >
+<div class=" vpad--xl bg--light " >
 
   <div class="container ">
-    <div class="row row--xl-6-6 row--gutters-lg">
-      {% for offer in offers-by-price %}
+    <div class="row row--xl-6-6 row--gutters-md">
+      {% for offer in offers-show %}
         <div class="col">
           {% include offer/offer.html %}
         </div>
       {% endfor %}
     </div>
   </div>
+
+  <div class="space--lg"></div>
+
+
+
+  <!-- Works well with dynamically-sized content. -->
+  <div class="container ">
+    <div class="row row--xl-6-6 row--gutters-md">
+    {% for offer in offers-rest %}
+      <div class="col">
+      {% include offer/offer.html %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+<div class="space--lg"></div>
+
 </div>
