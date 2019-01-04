@@ -3,7 +3,7 @@
 
   <div class="container ">
     <div class="row row--xl-6-6 row--gutters-md">
-      {% for offer in offers-show %}
+      {% for offer in offers-by-expires %}
         <div class="col">
           {% include offer/offer.html %}
         </div>
@@ -11,21 +11,7 @@
     </div>
   </div>
 
-  <div class="space--lg"></div>
+  <div class="space--xxl"></div>
+  <a href="#" class="btn btn--i-blue ">Nach oben</a>
 
-
-
-  <!-- Works well with dynamically-sized content. -->
-  <div class="container ">
-    <div class="row row--xl-6-6 row--gutters-md">
-    {% for offer in offers-rest %}
-      <div class="col">
-      {% include offer/offer.html %}
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-<div class="space--lg"></div>
-
-<a href="#" class="btn btn--i-blue ">Nach oben</a>
 </div>

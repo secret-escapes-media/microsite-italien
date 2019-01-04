@@ -6,6 +6,9 @@
 <!-- offers by saving -->
 {% assign offers-by-saving = offers | sort: 'saved' | reverse %}
 
+<!-- offers by expire date -->
+{% assign offers-by-expires = offers | sort: 'expires' %}
+
 <!-- offers by price -->
 {% assign offers-by-price = offers | sort: 'price' %}
 
