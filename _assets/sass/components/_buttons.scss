@@ -6,7 +6,7 @@
   padding: $s2 $s5;
   color: $white;
   font-weight: 700;
-  font-size: $s-1;
+  font-size: $s2/1.5;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: .2em;
@@ -45,6 +45,14 @@
       border-style: solid;
       border-radius: inherit;
       @include transition;
+    }
+  }
+  &--outline-blue {
+    border: 1px solid $i-blue;
+    color: $i-blue;
+    &:hover {
+      background-color: $i-blue;
+      color: $white;
     }
   }
   &--outline-orange {

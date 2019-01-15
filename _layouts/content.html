@@ -25,7 +25,12 @@ layout: default
       <div class="harvey__text boxpad--lg text text--xxl">
         <h2 class="title title--xl bv-headline-divider ">{{section.title}}</h2>
         <p>{{section.description}}</p>
-        <div class="space--sm"></div>
+        <div class="space--lg"></div>
+        {% if section.url %}
+          <a href="{{section.url}}" target="_blank" class="btn btn--outline-blue" >Angebot in der Nähe</a>
+        {% endif %}
+
+        
 
       </div>
     </div>
