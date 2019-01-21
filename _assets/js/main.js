@@ -14,8 +14,8 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
 
     } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-
+      content.style.maxHeight = "500px";
+      content.style.overflow = "auto";
     }
   });
 }
