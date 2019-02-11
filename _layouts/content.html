@@ -20,7 +20,7 @@ layout: default
 {% for section in site.data[page.id] %}
     <div id="{{page.id}}" class="harvey{% cycle '', ' harvey--swap' %}">
       <div class="harvey__img" style="background-image: url('{{site.img}}/content/{{page.id}}/{{section.img}}.jpg');">
-        <a href="{{site.baseurl}}{{page.url}}" class="harvey__link"></a>
+        
       </div>
       <div class="harvey__text boxpad--lg text text--xxl">
         <h2 class="title title--xl bv-headline-divider ">{{section.title}}</h2>
@@ -30,7 +30,7 @@ layout: default
           <a href="{{section.url}}" target="_blank" class="btn btn--outline-blue" >Angebot in der Nähe</a>
         {% endif %}
 
-        
+
 
       </div>
     </div>

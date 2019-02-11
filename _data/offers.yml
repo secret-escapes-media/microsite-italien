@@ -1,68 +1,32 @@
-- title: Entschleunigung in Südtirol
-  id: entschleunigung-in-südtirol
-  location: Hotel Lamm, Kastelruth, Südtirol, Italien
-  description: Inkl. Halbpension, Spa-Zugang, Beauty-Gutschein &amp; vielen Extras
-  price: 199
+- title: "Nur heute: Palazzo an der Lagune von Venedig"
+  id: palazzo-an-der-lagune-von-venedig
+  location: Hotel Savoia & Jolanda Venezia, Venedig, Venetien, Italien
+  description: Stilvolles Hotel mit Frühstück, Restaurant-Ermäßigung, 1x ermäßigter Bootsfahrt &amp; Extras
+  price: 85
+  price-description: pro Unterkunft pro Nacht
+  saved: 62
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/35216/cfb7d412_8995_41c1_a5f5_1df5c13cd03e.jpg
+  link: https://www.secretescapes.de/nur-heute-palazzo-an-der-lagune-von-venedig-hotel-savoia-and-jolanda-venezia-venedig-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+
+- title: Sardisches Flair in idyllischer Hanglage
+  id: sardisches-flair-in-idyllischer-hanglage
+  location: Hotel Petra Bianca, Cala di Volpe, Costa Smeralda, Sardinien, Italien
+  description: Inkl. Frühstück oder Halbpension &amp; Begrüßungsgetränk
+  price: 105
   price-description: pro Zimmer pro Nacht
-  saved: 42
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68684/1499aa57_a25f_4046_8f4f_f331474c505a.jpg
-  link: https://www.secretescapes.de/entschleunigung-in-suedtirol-hotel-lamm-alpine-lifestyle-and-spa-kastelruth-suedtirol-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 71
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73325/5f563874_b024_425d_8f83_b29b769a6cc1.jpg
+  link: https://www.secretescapes.de/sardisches-flair-in-idyllischer-hanglage-hotel-petra-bianca-cala-di-volpe-costa-smeralda-sardinien-italien-de/sale
 
-- title: Glücklich gestrandet in Kalabrien
-  id: glücklich-gestrandet-in-kalabrien
-  location: Praia Art Resort, Isola di Capo Rizzuto, Kalabrien, Italien
-  description: Dolce Vita in Strandnähe - inkl. Frühstück, Begrüßungsgetränk, Strand-Service &amp; Extras
-  price: 169
-  price-description: pro Zimmer pro Nacht
-  saved: 57
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41035/3a0b34a2_01cb_4345_9276_d47fccf60df1.jpg
-  link: https://www.secretescapes.de/gluecklich-gestrandet-in-kalabrien-praia-art-resort-isola-di-capo-rizzuto-kalabrien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: La Dolce Vita auf Elba
-  id: la-dolce-vita-auf-elba
-  location: Hotel Villa Ottone, Portoferraio auf Elba, Toskana, Italien
-  description: Inkl. Frühstück, 1x Dinner &amp; Ermäßigung auf Wellness-Anwendungen
-  price: 99
-  price-description: pro Zimmer pro Nacht
-  saved: 48
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10377/ef34fd0d_591d_4d4c_ba42_98df902ecb27.jpg
-  link: https://www.secretescapes.de/la-dolce-vita-auf-elba-hotel-villa-ottone-portoferraio-auf-elba-toskana-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Boutiquehotel in der Ewigen Stadt
-  id: boutiquehotel-in-der-ewigen-stadt
-  location: Roman Terrace Rom, Italien
-  description: Familiäres Boutique-Juwel in zentraler Lage – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 56
-  price-description: pro Zimmer pro Nacht
-  saved: 60
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66052/63772cf5_91e3_4d16_a97b_a7b6f0413237.jpg
-  link: https://www.secretescapes.de/boutiquehotel-in-der-ewigen-stadt-roman-terrace-rom-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Süditalienische Lebensfreude in Apulien
-  id: süditalienische-lebensfreude-in-apulien
-  location: Masseria La Macchiola - Corti del Mito, Spongano, Apulien, Italien
-  description: Historische Landhaus-Grandezza – inkl. Frühstück, 1x Massage, Tanzkurs & Extras
-  price: 669
-  price-description: pro Person für 7 Nächte
-  saved: 15
-  expires: 2019/01/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85608/b5b01336_8efe_41dc_930c_b255924f521c.jpg
-  link: https://www.secretescapes.de/sueditalienische-lebensfreude-in-apulien-masseria-la-macchiola-corti-del-mito-spongano-apulien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Alpine Auszeit für Ski-Fans & Genießer
-  id: alpine-auszeit-für-ski-fans-and-genießer
-  location: Alpin Royal Wellness Refugium & Resort Hotel, Ahrntal, Trentino-Südtirol, Italien
-  description: Inkl. All-inclusive, Spa-Zugang, Skibus-Nutzung, Leih-Mountainbikes & Extras
-  price: 199
+- title: Wellness-Idyll in Südtirol
+  id: wellness-idyll-in-südtirol
+  location: Hotel Bad Fallenbach, St. Leonhard in Passeier, Bozen, Südtirol, Italien
+  description: Suiten mit Halbpension, Begrüßungsgetränk, 1x Spa-Gutschein, 1x Vitalbad &amp; Extras
+  price: 229
   price-description: pro Suite pro Nacht
   saved: 46
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70458/bf363cb3_3917_487a_bccb_6795e0082c0f.jpg
-  link: https://www.secretescapes.de/alpine-auszeit-fuer-ski-fans-and-geniesser-alpin-royal-wellness-refugium-and-resort-hotel-ahrntal-trentino-suedtirol-italien2/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83042/2cf80f42_730c_4c2e_9e6c_18b28464d1d9.jpg
+  link: https://www.secretescapes.de/wellness-idyll-in-suedtirol-hotel-bad-fallenbach-st-leonhard-in-passeier-bozen-suedtirol-italien/sale
 
 - title: Moderne Neueröffnung am Südufer des Gardasees
   id: moderne-neueröffnung-am-südufer-des-gardasees
@@ -71,230 +35,28 @@
   price: 118
   price-description: pro Zimmer pro Nacht
   saved: 36
-  expires: 2019/01/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86379/8696c099_f5e6_4629_9bae_3e2d4d064d47.jpg
-  link: https://www.secretescapes.de/moderne-neueroffnung-am-suedufer-des-gardasees-vision-hotel-peschiera-del-garda-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  link: https://www.secretescapes.de/moderne-neueroffnung-am-suedufer-des-gardasees-vision-hotel-peschiera-del-garda-venetien-italien/sale
 
-- title: Exklusive Sonnenstunden am Golf von Neapel
-  id: exklusive-sonnenstunden-am-golf-von-neapel
-  location: Towers Hotel Stabiae Sorrento Coast, Castellammare di Stabia, Kampanien, Italien
-  description: Auszeit mit Mietwagen unterhalb vom Vesuv inkl. Flügen, Frühstück, Mietwagen &amp; Extras
-  price: 499
-  price-description: pro Person für 7 Nächte
-  saved: 33
-  expires: 2019/01/21
-  flight-tag: true
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86247/79c6dc33_c8c2_4d1a_ac5b_0579b039de73.jpg
-  link: https://www.secretescapes.de/exklusive-sonnenstunden-am-golf-von-sorrent-towers-hotel-stabiae-sorrento-coast-castellammare-di-stabia-kampanien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Gourmet-Genuss im Südtiroler Pustertal
-  id: gourmet-genuss-im-südtiroler-pustertal
-  location: Gourmet- und Boutiquehotel Tanzer, Issing, Südtirol, Italien
-  description: Inkl. Frühstück oder Halbpension, Spa-Zugang, Restaurant- oder Spa-Gutschein &amp; vielen Extras
-  price: 129
-  price-description: pro Zimmer pro Nacht
-  saved: 43
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37534/049205b7_7cee_484c_8df7_13f894c435b0.jpg
-  link: https://www.secretescapes.de/gourmet-genuss-im-suedtiroler-pustertal-gourmet-und-boutiquehotel-tanzer-issing-suedtirol-italien-1/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: 5*-Romantik-Auszeit in Südtirol
-  id: 5-romantik-auszeit-in-südtirol
-  location: Romantik Hotel Turm, Völs am Schlern, Südtirol, Italien
-  description: Südtirol mit allen Sinnen erleben – inkl. Halbpension, täglichem Spa-Zugang &amp; Extras
-  price: 269
-  price-description: pro Unterkunft pro Nacht
-  saved: 33
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85206/41a8cfa1_f2e4_4a79_ad0e_0c25b620d7f7.jpg
-  link: https://www.secretescapes.de/5-star-romantik-auszeit-in-suedtirol-romantik-hotel-turm-vols-am-schlern-suedtirol-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Sardiniens Traumküste für hohe Ansprüche
-  id: sardiniens-traumküste-für-hohe-ansprüche
-  location: Colonna Park Hotel, Porto Cervo, Sardinien, Italien
-  description: Costa Smeralda-Glamour – inkl. Frühstücksbuffet, 1x Dinner &amp; 1 Flasche Prosecco
-  price: 109
-  price-description: pro Zimmer pro Nacht
-  saved: 54
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63263/c15020af_63a9_4387_b364_8509b83d1df9.jpg
-  link: https://www.secretescapes.de/sardiniens-traumkueste-fuer-hohe-ansprueche-colonna-park-hotel-porto-cervo-sardinien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Venedig für Designliebhaber
-  id: venedig-für-designliebhaber
-  location: Venice Times Hotel, Venedig, Venetien, Italien
-  description: Inkl. Frühstück, Begrüßungsgetränk, Smartphone-Nutzung &amp; Erstbefüllung der Minibar
-  price: 125
-  price-description: pro Zimmer pro Nacht
-  saved: 43
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82189/00d98f5f_ffd9_4d07_bb5c_0b2660db3a40.jpg
-  link: https://www.secretescapes.de/venedig-fuer-designliebhaber-venice-times-hotel-venedig-venetien-italien-ita/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Strandresort mit Stil an Siziliens Südküste
-  id: strandresort-mit-stil-an-siziliens-südküste
-  location: Modica Beach Resort, Marina di Modica, Sizilien, Italien
-  description: Sizilianischer Strand-Chic – inkl. Frühstück oder Halbpension, Spa-Zugang &amp; Extras
-  price: 85
-  price-description: pro Zimmer pro Nacht
-  saved: 68
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73286/820f525d_447f_488a_91b7_11da9054b8be.jpg
-  link: https://www.secretescapes.de/strandresort-mit-stil-an-siziliens-suedkueste-modica-beach-resort-marina-di-modica-sizilien-italien-1/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Boutique-Charme in Rom
-  id: boutique-charme-in-rom
-  location: Ars Hotel, Rom, Italien
-  description: Zimmer in Roms Gartenviertel – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 52
-  price-description: pro Zimmer pro Nacht
-  saved: 47
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/40341/6b7a525f_4d15_4ca3_aa83_e4265d37ea38.jpg
-  link: https://www.secretescapes.de/boutique-charme-in-rom-ars-hotel-rom-italien1/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Römischer Stadtpalast mit Dachgarten
-  id: römischer-stadtpalast-mit-dachgarten
-  location: Hotel Romanico Palace & Spa, Rom, Italien
-  description: Inkl. Frühstück, 1x Spa-Zugang &amp; Ermäßigungen im Hotel
-  price: 89
-  price-description: pro Unterkunft pro Nacht
-  saved: 51
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/65871/f0f908d5_5f80_494f_a1fe_d109a202f3f2.jpg
-  link: https://www.secretescapes.de/romischer-stadtpalast-mit-dachgarten-hotel-romanico-palace-and-spa-rom-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Eine Design-Oase in der ewigen Stadt
-  id: eine-design-oase-in-der-ewigen-stadt
-  location: iRooms Forum & Colosseum, Rom, Italien
-  description: Ultra-modern in der ewigen città – inkl. Frühstück &amp; Erstbefüllung der Minibar
-  price: 107
-  price-description: pro Zimmer pro Nacht
-  saved: 48
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/53054/d2b256a5_7fa4_4770_8bef_85b09a2a0663.jpg
-  link: https://www.secretescapes.de/eine-design-oase-in-der-ewigen-stadt-irooms-forum-and-colosseum-rom-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Beste Aussichten am Golf von Neapel
-  id: beste-aussichten-am-golf-von-neapel
-  location: Hotel Miramare e Castello, Ischia, Kampanien, Italien
-  description: 5*-Traum mit Blick auf das imposante Castello – inkl. Frühstück, Begrüßungsgetränk &amp; Spa-Zugang
-  price: 127
-  price-description: pro Zimmer pro Nacht
-  saved: 52
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/6a69e19e_4fac_4cd3_a5a5_4d8f91cebca6.jpg
-  link: https://www.secretescapes.de/elegantes-5-star-hotel-auf-ischia-hotel-miramare-e-castello-ischia-kampanien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Entspannter Familienurlaub in Südtirol
-  id: entspannter-familienurlaub-in-südtirol
-  location: Familienhotel Viktoria, St. Walburg im Ultental, Südtirol, Italien
-  description: Familien-Zimmer oder Junior-Suite – inkl. 3/4-Verwöhnpension, <i>Ultental</i>-Card &amp; Extras
-  price: 139
-  price-description: pro Zimmer pro Nacht
-  saved: 56
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/54289/f4ecfeee_bf55_49d5_ba69_6b85babceba1.jpg
-  link: https://www.secretescapes.de/entspannter-familienurlaub-in-suedtirol-familienhotel-viktoria-st-walburg-im-ultental-suedtirol-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Wellnesstage in den Dolomiten
-  id: wellnesstage-in-den-dolomiten
-  location: Natur- & Aktivhotel Rogen, Bozen, Südtirol, Italien
-  description: Südtiroler Berg-Wellness mit Charme – inkl. Frühstück, Spa-Zugang &amp; Extras
-  price: 129
-  price-description: pro Unterkunft pro Nacht
-  saved: 44
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60593/2945bcda_c928_4b3b_8ce7_ce3ec74bd727.jpg
-  link: https://www.secretescapes.de/wellnesstage-in-den-dolomiten-natur-and-aktivhotel-rogen-bozen-suedtirol-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Majestätische Eleganz im schönen Triest
-  id: majestätische-eleganz-im-schönen-triest
-  location: Savoia Excelsior Palace Trieste, Friaul-Julisch Venetien, Italien
-  description: Inkl. Frühstück, spätem Check-out &amp; Aufmerksamkeit des Hauses bei Ankunft
-  price: 159
-  price-description: pro Unterkunft pro Nacht
-  saved: 39
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59086/e622b1fc_75d0_4919_8688_2d6a20937d2b.jpg
-  link: https://www.secretescapes.de/majestaetische-eleganz-im-schonen-triest-savoia-excelsior-palace-trieste-friaul-julisch-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Winterwellness & Genuss in Südtirol
-  id: winterwellness-and-genuss-in-südtirol
-  location: Aktiv & Vitalhotel Taubers Unterwirt, Feldthurns, Südtirol, Italien
-  description: Vitale Erholung am Tor der Dolomiten – inkl. Halbpension, 1x Massage, 1x Weinverkostung &amp; Extras
-  price: 189
-  price-description: pro Junior-Suite pro Nacht
-  saved: 51
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12811/bf7b8d20_da5e_47c1_ba78_ff0931d90eb2.jpg
-  link: https://www.secretescapes.de/winterwellness-and-genuss-in-suedtirol-aktiv-and-vitalhotel-taubers-unterwirt-feldthurns-suedtirol-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Historisches Boutiquehotel zentral in Florenz
-  id: historisches-boutiquehotel-zentral-in-florenz
-  location: Hotel Brunelleschi, Florenz, Italien
-  description: Turm aus byzantinischer Zeit mit Blick auf die Via dei Calzaiuoli – inkl. Frühstück &amp; Extras
-  price: 170
-  price-description: pro Zimmer pro Nacht
-  saved: 46
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12943/723e540f_b1ae_4fdf_9ddf_ae67fe311821.jpg
-  link: https://www.secretescapes.de/historisches-boutiquehotel-zentral-in-florenz-hotel-brunelleschi-florenz-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Mediterraner Jugendstil in Venedig
-  id: mediterraner-jugendstil-in-venedig
-  location: Hotel Villa Mabapa, Venedig, Venetien, Italien
-  description: Inkl. Frühstück, 1x Murano-Transfer, optional Restaurant-Ermäßigung oder 1x Dinner &amp; Extras
-  price: 79
-  price-description: pro Zimmer pro Nacht
-  saved: 65
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57531/d7321e62_87cd_4264_93ad_3366d253b0e9.jpg
-  link: https://www.secretescapes.de/mediterraner-jugendstil-in-venedig-hotel-villa-mabapa-venedig-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Romantisches Flair in Venedigs Altstadt
-  id: romantisches-flair-in-venedigs-altstadt
-  location: Hotel Giorgione, Venedig, Venetien, Italien
-  description: Zentrale Zimmer &amp; Suiten in der Stadt der 1.000 Brücken – inkl. Frühstück, Prosecco &amp; Extra
-  price: 80
-  price-description: pro Zimmer pro Nacht
-  saved: 63
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34783/7b9c7c12_37bf_4113_a857_c298a614ad73.jpg
-  link: https://www.secretescapes.de/romantisches-flair-in-venedigs-altstadt-hotel-giorgione-venedig-venetien-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Palazzo-Flair im sizilianischen Ragusa
-  id: palazzo-flair-im-sizilianischen-ragusa
-  location: De Stefano Palace - Luxury Hotel, Ragusa, Sizilien, Italien
-  description: Inkl. Frühstück, 1x Spa-Zugang, Spa-Gutschein &amp; Begrüßungsgetränk
-  price: 69
-  price-description: pro Zimmer pro Nacht
-  saved: 63
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75842/a341c242_0430_45aa_a070_e3fb5748474a.jpg
-  link: https://www.secretescapes.de/palazzo-flair-im-sizilianischen-ragusa-de-stefano-palace-luxury-hotel-ragusa-sizilien-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Traumhaftes Parkresort auf Sardinien
-  id: traumhaftes-parkresort-auf-sardinien
-  location: Hotel Le Dune - Arbatax Park Resort, Tortolì, Sardinien, Italien
-  description: Pure Erholung in direkter Strandlage – inkl. Halbpension, spätem Check-out &amp; vielen Extras
+- title: "Südtirol: Tiefenentspannt im Tauferer Ahrntal"
+  id: tiefenentspannt-im-tauferer-ahrntal
+  location: Hotel Bacher, Sand in Taufers, Tauferer Ahrntal, Südtirol, Itlaien
+  description: Familiengeführtes Traditionshaus – inkl. Frühstück, Schneeschuhwanderung, Spa-Zugang &amp; Extras
   price: 99
   price-description: pro Zimmer pro Nacht
-  saved: 58
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26588/b750d036_d4d8_465d_93f4_f7725d94f470.jpg
-  link: https://www.secretescapes.de/traumhaftes-parkresort-auf-sardinien-dune-arbatax-park-resort-und-spa-tortoli-sardinien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 59
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86766/c23366b7_637f_4cb0_bcc0_d1f05e34e7e7.jpg
+  link: https://www.secretescapes.de/suedtirol-tiefenentspannt-im-tauferer-ahrntal-hotel-bacher-sand-in-taufers-tauferer-ahrntal-suedtirol-itlaien/sale
 
-- title: 5*-Genießertage im Pustertal
-  id: 5-genießertage-im-pustertal
-  location: Mirabell Dolomiten Wellness Residenz, Olang, Südtirol, Italien
-  description: Inkl. 3/4-Verwöhnpension mit täglichem 6-Gänge-Dinner, Spa-Gutschein &amp; vielen Extras
-  price: 249
-  price-description: pro Suite pro Nacht
-  saved: 45
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25933/f3cfea2d_631f_4b02_9120_e40d080ab450.jpg
-  link: https://www.secretescapes.de/5-star-geniessertage-im-pustertal-mirabell-dolomiten-wellness-residenz-olang-suedtirol-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+- title: Italienische Lebensart am traumhaften Gardasee
+  id: italienische-lebensart-am-traumhaften-gardasee
+  location: Hotel Donna Silvia, Manerba del Garda, Lombardei, Italien
+  description: Dolce Vita am Gardasee – inkl. Frühstück, Begrüßungsgetränk &amp; Wellness-Zugang
+  price: 65
+  price-description: pro Zimmer pro Nacht
+  saved: 54
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/76836/78325f77_7e3d_407a_8664_b161bbd084ee.jpg
+  link: https://www.secretescapes.de/italienische-lebensart-am-traumhaften-gardasee-hotel-donna-silvia-manerba-del-garda-lombardei-italien-de/sale
 
 - title: Pures Glück an der Smaragdküste Sardiniens
   id: pures-glück-an-der-smaragdküste-sardiniens
@@ -303,75 +65,28 @@
   price: 119
   price-description: pro Zimmer pro Nacht
   saved: 53
-  expires: 2019/01/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44364/dc761607_20d3_474b_978c_96a4349231cf.jpg
-  link: https://www.secretescapes.de/pures-glueck-an-der-smaragdkueste-sardiniens-hotel-palumbalza-porto-rotondo-sardinien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  link: https://www.secretescapes.de/pures-glueck-an-der-smaragdkueste-sardiniens-hotel-palumbalza-porto-rotondo-sardinien-italien/sale
 
-- title: Auszeit an der Stiefelspitze Italiens
-  id: auszeit-an-der-stiefelspitze-italiens
-  location: Hotel Rocca Della Sena, Tropea, Kalabrien, Italien
-  description: Direkter Strandzugang an Kalabriens Küste inkl. Frühstück, spätem Check-out &amp; Extras
-  price: 99
+- title: Luxus-Hideaway im Ahrntal
+  id: luxus-hideaway-im-ahrntal
+  location: Alpenpalace Luxury Hideaway & Spa Retreat, Ahrntal, Südtirol, Italien
+  description: Inkl. Halbpension, 1 Flasche Champagner, Wellness-Gutschein, Ski-Shuttle &amp; Extras
+  price: 269
   price-description: pro Zimmer pro Nacht
-  saved: 49
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42364/59379fdc_5b2b_4b5e_8819_b6086ae26073.jpg
-  link: https://www.secretescapes.de/auszeit-an-der-stiefelspitze-italiens-hotel-rocca-della-sena-tropea-in-kalabrien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 42
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39045/d0510893_0e80_4bbe_a3b4_24b15893c8e4.jpg
+  link: https://www.secretescapes.de/luxus-hideaway-im-ahrntal-alpenpalace-luxury-hideaway-and-spa-retreat-ahrntal-suedtirol-italien/sale
 
-- title: Sonnenverwöhnte Tage in Sizilien
-  id: sonnenverwöhnte-tage-in-sizilien
-  location: I Mulini Resort, Trapani, Sizilien, Italien
-  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk &amp; Gutschein für Sonnenschirm und -liegen
+- title: Rustikal-romantische Bergchalets in Südtirol
+  id: rustikal-romantische-bergchalets-in-südtirol
+  location: Ledro Mountain Chalets, Valle di Ledro, Trentino, Südtirol Italien
+  description: Bezauberndes Alpenidyll &amp; uriges Hüttenflair inkl. Frühstückskorb, Sauna &amp; Kamin im Chalet
   price: 85
   price-description: pro Unterkunft pro Nacht
-  saved: 47
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/21505/49b45302_3d8f_4c34_b9f1_b08cdc5b94e5.jpg
-  link: https://www.secretescapes.de/sonnenverwohnte-tage-in-sizilien-i-mulini-resort-trapani-sizilien-italien-ita/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Junior-Suite im Süden Italiens
-  id: junior-suite-im-süden-italiens
-  location: Salento Residence & Suites, San Cataldo, Apulien, Italien
-  description: Zwischen Strandurlaub &amp; Sightseeing in Apulien  – inkl. Begrüßungsgetränk &amp; Extras
-  price: 79
-  price-description: pro Junior Suite pro Nacht
-  saved: 31
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71389/92baf222_d37f_4931_b265_8188330c40a9.jpg
-  link: https://www.secretescapes.de/junior-suite-im-sueden-italiens-salento-residence-and-suites-san-cataldo-apulien-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Ski & Shopping in den italienischen Alpen
-  id: ski-and-shopping-in-den-italienischen-alpen
-  location: Montivas Lodge, Livigno, Lombardei, Italien
-  description: Wellness und Bergromantik direkt an der Skipiste – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 129
-  price-description: pro room pro Nacht
-  saved: 37
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86377/6ed73fa9_798f_43b3_adb6_3ddcadb6f144.jpg
-  link: https://www.secretescapes.de/ski-and-shopping-in-den-italienischen-alpen-montivas-lodge-livigno-lombardei-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Kulinarischer Traum in Montepulciano
-  id: kulinarischer-traum-in-montepulciano
-  location: Palazzo Mosela alla Porta, Montepulciano, Toskana, Italien
-  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk, kulinarischer Verkostung &amp; Extras
-  price: 69
-  price-description: pro Zimmer pro Nacht
-  saved: 65
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72070/da957b0f_ebd9_4664_9ac0_765415d97d03.jpg
-  link: https://www.secretescapes.de/kulinarischer-traum-in-montepulciano-palazzo-mosela-alla-porta-montepulciano-toskana-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Alpines Boutiquehotel im Aostatal
-  id: alpines-boutiquehotel-im-aostatal
-  location: Hotel du Grand Paradis & Spa la Baita, Cogne, Aostatal, Italien
-  description: La Dolce Vita in historischem Boutiquehotel – inkl. Frühstück &amp; Extras
-  price: 104
-  price-description: pro Zimmer pro Nacht
-  saved: 44
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/58848/8184d827_dca2_47c2_89e4_d872f0e9b69d.jpg
-  link: https://www.secretescapes.de/alpines-boutiquehotel-im-aostatal-hotel-du-grand-paradis-and-spa-la-baita-cogne-aostatal-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 55
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86703/66a44e1a_caa3_41ec_84c3_b3cdd2270394.jpg
+  link: https://www.secretescapes.de/rustikal-romantische-bergchalets-in-suedtirol-ledro-mountain-chalets-valle-di-ledro-trentino-suedtirol-italien/sale
 
 - title: Grandezza übern den Dächern Roms
   id: grandezza-übern-den-dächern-roms
@@ -380,98 +95,180 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 47
-  expires: 2019/01/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50937/45055866_a8ab_407a_8494_7a656dec990d.jpg
-  link: https://www.secretescapes.de/grandezza-uebern-den-daechern-roms-hotel-savoy-rom-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  link: https://www.secretescapes.de/grandezza-uebern-den-daechern-roms-hotel-savoy-rom-italien/sale
 
-- title: Erholsame Tage am Comer See
-  id: erholsame-tage-am-comer-see
-  location: Lake Apartments, Lecco, Comer See, Lombardei, Italien
-  description: Den Comer See direkt vor der Tür – für Selbstversorger oder optional inkl. &amp; Extras
-  price: 69
-  price-description: pro Zimmer pro Nacht
-  saved: 57
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62957/aea7b2d4_4934_4af5_83b5_3793d29039d2.jpg
-  link: https://www.secretescapes.de/erholsame-tage-am-comer-see-lake-apartments-lecco-comer-see-lombardei-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Logenplatz am historischen Canal Cannaregio
-  id: logenplatz-am-historischen-canal-cannaregio
-  location: Palazzo Cendon, Venedig, Venetien, Italien
-  description: Superior-Zimmer mit Frühstück, Begrüßungsgetränk &amp; spätem Check-out
-  price: 88
-  price-description: pro Zimmer pro Nacht
-  saved: 70
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/43982/30f9a766_4dd9_49a9_980d_b48bbc12f5b2.jpg
-  link: https://www.secretescapes.de/logenplatz-am-historischen-canal-cannaregio-palazzo-cendon-venedig-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: 5*-Erholung an der Adriaküste
-  id: 5-erholung-an-der-adriaküste
-  location: Falkensteiner Hotel & Spa Jesolo, Lido di Jesolo, Venetien, Italien
-  description: Inkl. Frühstück oder Halbpension, Leihfahrrädern, Spa-Zugang &amp; Extras
-  price: 151
-  price-description: pro Zimmer pro Nacht
-  saved: 28
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44582/60698b8f_6a8f_4f2d_95b0_1f196e765a21.jpg
-  link: https://www.secretescapes.de/5-star-erholung-an-der-adriakueste-falkensteiner-hotel-and-spa-jesolo-lido-di-jesolo-venetien-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: In Rom weht ein frischer Designwind
-  id: in-rom-weht-ein-frischer-designwind
-  location: iRooms Forum & Colosseum, Rom, Italien
-  description: Ultra-modern in der ewigen città - inkl. Flügen, Transfers, Frühstück, Museums- &amp; Busticket
-  price: 329
-  price-description: pro Person für 4 Nächte
-  saved: 25
-  expires: 2019/01/18
-  flight-tag: true
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/47817/731c6496_aec6_4f55_b5c1_ee26065f68f4.jpg
-  link: https://www.secretescapes.de/in-rom-weht-ein-frischer-designwind-irooms-forum-and-colosseum-rom-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Italien per Pkw – Reise zu den Michelin-Sternen
-  id: italien-per-pkw-–-reise-zu-den-michelin-sternen
-  location: Alessandria, Piemont & Ameglia, Ligurien/Toskana - Italien
-  description: Gourmet-Reise vom Piemont bis zur Toskana – inkl. Frühstück, 2x 4-Gänge-Menü &amp; Extras
-  price: 319
-  price-description: pro Person für 6 Nächte
-  saved: 20
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70440/1b2c2767_6712_47ae_8fb8_06bbe8b3d385.jpg
-  link: https://www.secretescapes.de/italien-per-pkw-reise-zu-den-michelin-sternen-alessandria-piemont-and-ameglia-ligurien-toskana-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Luxushotel vor italienischer Traumkulisse
-  id: luxushotel-vor-italienischer-traumkulisse
-  location: Il Boscareto Resort & Spa, Serralunga d'Alba, Piemont, Italien
-  description: Kulinarik &amp; Wellness mit Panoramaausblick – inkl. Frühstück, Spa-Zugang &amp; Extras
-  price: 215
+- title: 5*-Romantik-Auszeit in Südtirol
+  id: 5-romantik-auszeit-in-südtirol
+  location: Romantik Hotel Turm, Völs am Schlern, Südtirol, Italien
+  description: Südtirol mit allen Sinnen erleben – inkl. Halbpension, täglichem Spa-Zugang &amp; Extras
+  price: 269
   price-description: pro Unterkunft pro Nacht
-  saved: 64
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83030/6f0e1948_d367_4cee_be89_76c698f5396d.jpg
-  link: https://www.secretescapes.de/luxushotel-vor-italienischer-traumkulisse-il-boscareto-resort-and-spa-serralunga-dalba-piemont-italien1/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 33
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85206/41a8cfa1_f2e4_4a79_ad0e_0c25b620d7f7.jpg
+  link: https://www.secretescapes.de/5-star-romantik-auszeit-in-suedtirol-romantik-hotel-turm-vols-am-schlern-suedtirol-italien/sale
 
-- title: Die Modehauptstadt Mailand erleben
-  id: die-modehauptstadt-mailand-erleben
-  location: Tocq Hotel, Mailand, Lombardei, Italien
-  description: Inkl. Frühstück, frühem Check-in, spätem Check-out &amp; Begrüßungsgetränk
+- title: Entschleunigung in Südtirol
+  id: entschleunigung-in-südtirol
+  location: Hotel Lamm, Kastelruth, Südtirol, Italien
+  description: Inkl. Halbpension, Spa-Zugang, Beauty-Gutschein &amp; vielen Extras
+  price: 199
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68684/1499aa57_a25f_4046_8f4f_f331474c505a.jpg
+  link: https://www.secretescapes.de/entschleunigung-in-suedtirol-hotel-lamm-alpine-lifestyle-and-spa-kastelruth-suedtirol-italien/sale
+
+- title: Traumhaftes Parkresort auf Sardinien
+  id: traumhaftes-parkresort-auf-sardinien
+  location: Hotel Le Dune - Arbatax Park Resort, Tortolì, Sardinien, Italien
+  description: Pure Erholung in direkter Strandlage – inkl. Halbpension, spätem Check-out &amp; vielen Extras
   price: 99
   price-description: pro Zimmer pro Nacht
-  saved: 60
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/67161/d1392eb2_443d_4ec9_8294_053c4f5c7987.jpg
-  link: https://www.secretescapes.de/die-modehauptstadt-mailand-erleben-tocq-hotel-mailand-lombardei-italien1/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 58
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26588/b750d036_d4d8_465d_93f4_f7725d94f470.jpg
+  link: https://www.secretescapes.de/traumhaftes-parkresort-auf-sardinien-dune-arbatax-park-resort-und-spa-tortoli-sardinien-italien/sale
 
-- title: Süßes Leben an Sardiniens Flamingo-Lagune
-  id: süßes-leben-an-sardiniens-flamingo-lagune
-  location: Hotel Raffael, Putzu Idu, Sardinien, Italien
-  description: Inkl. Frühstück, spätem Check-out, 1 Flasche Prosecco &amp; Extras
-  price: 75
+- title: Regeneration in der Spawelt Südtirols
+  id: regeneration-in-der-spawelt-südtirols
+  location: Beauty & Wellness Resort Garberhof, Mals im Vinschgau, Südtirol, Italien
+  description: Wellnessglück mit  Alpenpanorama – inkl. Halbpension, 1 Flasche Prosecco, Spa-Gutschein &amp; Extras
+  price: 256
+  price-description: pro Unterkunft pro Nacht
+  saved: 50
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85122/6b0db1b8_af64_4c94_a418_43b0fd8451e7.jpg
+  link: https://www.secretescapes.de/regeneration-in-der-spawelt-suedtirols-beauty-and-wellness-resort-garberhof-mals-im-vinschgau-suedtirol-italien/sale
+
+- title: Boutique-Flair im Herzen Roms
+  id: boutique-flair-im-herzen-roms
+  location: Rome Times Hotel, Rom, Italien
+  description: Inkl. Frühstück, Erstbefüllung der Minibar, Smartphone mit Internetnutzung &amp; Extras
+  price: 109
+  price-description: pro Zimmer pro Nacht
+  saved: 45
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59330/b4e01e0d_bf46_44e0_92ac_eb4ee5802f4c.jpg
+  link: https://www.secretescapes.de/boutique-flair-im-herzen-roms-rome-times-hotel-rom-italien/sale
+
+- title: Venezianische Grazie für Romantik- & Kulturfans
+  id: venezianische-grazie-für-romantik--and-kulturfans
+  location: Hotel dell’Opera Venezia, Venedig, Venetien, Italien
+  description: Entdeckertage mit Stil – inkl. Frühstück, 1. Fl. Prosecco, frühem Check-in &amp; spätem Check-out
+  price: 85
+  price-description: pro Zimmer pro Nacht
+  saved: 60
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86493/5111b04f_f60b_4f31_a07e_0b8f14a5edad.jpg
+  link: https://www.secretescapes.de/venezianische-grazie-fuer-romantik-and-kulturfans-hotel-dellopera-venezia-venedig-venetien-italien/sale
+
+- title: Entspannung am Lago Maggiore
+  id: entspannung-am-lago-maggiore
+  location: Heart Lake Apartments, Intra, Lago Maggiore, Piemont, Italien
+  description: Moderne Apartments&nbsp; – inkl. 1 Flasche Wein, spätem Check-out
+  price: 69
+  price-description: pro Apartment pro Nacht
+  saved: 61
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/78944/1a263e4b_3bf4_4da2_ac53_04c416c50418.jpg
+  link: https://www.secretescapes.de/entspannung-am-lago-maggiore-heart-lake-apartments-intra-lago-maggiore-piemont-italien/sale
+
+- title: Winterwellness & Genuss in Südtirol
+  id: winterwellness-and-genuss-in-südtirol
+  location: Aktiv & Vitalhotel Taubers Unterwirt, Feldthurns, Südtirol, Italien
+  description: Vitale Erholung am Tor der Dolomiten – inkl. Halbpension, 1x Massage, 1x Weinverkostung &amp; Extras
+  price: 170
+  price-description: pro Junior-Suite pro Nacht
+  saved: 56
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12811/bf7b8d20_da5e_47c1_ba78_ff0931d90eb2.jpg
+  link: https://www.secretescapes.de/winterwellness-and-genuss-in-suedtirol-aktiv-and-vitalhotel-taubers-unterwirt-feldthurns-suedtirol-italien-de/sale
+
+- title: Bezauberndes Toskana-Refugium
+  id: bezauberndes-toskana-refugium
+  location: Borgo Giusto, Borgo a Mozzano, Toskana, Italien
+  description: Traditionelles Hotel zwischen Lucca &amp; Florenz – inkl. Flügen, Frühstück, Mietwagen &amp; Extras
+  price: 399
+  price-description: pro Person für 7 Nächte
+  flight-tag: true
+  saved: 18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86726/3e447fe6_f7b5_4757_9ef7_9314d2ffe813.jpg
+  link: https://www.secretescapes.de/bezauberndes-toskana-refugium-borgo-giusto-albergo-diffuso-diecimo-toskana-italien/sale
+
+- title: Valentinstag in der Lagunenstadt
+  id: valentinstag-in-der-lagunenstadt
+  location: Hotel Carlton on the Grand Canal, Venedig, Venetien, Italien
+  description: Inkl. Flügen, Transfers, Frühstück, Gondelfahrt &amp; Ausflug nach Murano
+  price: 275
+  price-description: pro Person für 3 Nächte
+  flight-tag: true
+  saved: 24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86757/be7849c4_9271_40aa_a099_c903d2816bbb.jpg
+  link: https://www.secretescapes.de/valentinstag-in-der-lagunenstadt-hotel-carlton-on-the-grand-canal-venedig-venetien-italien/sale
+
+- title: Exklusive Entschleunigung im Pustertal
+  id: exklusive-entschleunigung-im-pustertal
+  location: Silentium Dolomites Chalet, Welsberg, Südtirol, Italien
+  description: Restaurierter Bergbauernhof im luxuriösen Chalet-Stil – inkl. Frühstück &amp; Extras
+  price: 169
+  price-description: pro Suite pro Nacht
+  saved: 31
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/54802/8270b0b5_f584_4188_969b_d710315e9b69.jpg
+  link: https://www.secretescapes.de/entspannen-and-entschleunigen-refugium-im-pustertal-silentium-dolomites-chalet-welsberg-suedtirol-italien/sale
+
+- title: 5*-Hotel an Sardiniens Smaragdküste
+  id: 5-hotel-an-sardiniens-smaragdküste
+  location: Colonna Pevero Hotel, Porto Cervo, Sardinien, Italien
+  description: Inkl. Halbpension, Spa-Gutschein, 1 Begrüßungsgetränk &amp; Extras
+  price: 219
   price-description: pro Zimmer pro Nacht
   saved: 63
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48239/e93ab30d_49fc_4bd3_932a_9afa596f0d25.jpg
-  link: https://www.secretescapes.de/suesses-leben-an-sardiniens-flamingo-lagune-hotel-raffael-putzu-idu-sardinien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
+  link: https://www.secretescapes.de/5-star-hotel-an-sardiniens-smaragdkueste-colonna-pevero-hotel-porto-cervo-sardinien-italien/sale
+
+- title: 5*-Genießertage im Pustertal
+  id: 5-genießertage-im-pustertal
+  location: Mirabell Dolomiten Wellness Residenz, Olang, Südtirol, Italien
+  description: Inkl. 3/4-Verwöhnpension mit täglichem 6-Gänge-Dinner, Spa-Gutschein &amp; vielen Extras
+  price: 249
+  price-description: pro Suite pro Nacht
+  saved: 45
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25933/f3cfea2d_631f_4b02_9120_e40d080ab450.jpg
+  link: https://www.secretescapes.de/5-star-geniessertage-im-pustertal-mirabell-dolomiten-wellness-residenz-olang-suedtirol-italien-de/sale
+
+- title: Mittelalterliches Flair & Weingenuss in Venetien
+  id: mittelalterliches-flair-and-weingenuss-in-venetien
+  location: Hotel Roxy Plaza, Soave bei Verona, Venetien, Italien
+  description: Inkl. Frühstück, Begrüßungsgetränk  &amp; optionaler Wein- und Olivenöl-Verkostung
+  price: 71
+  price-description: pro Zimmer pro Nacht
+  saved: 36
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/51735/75155197_7229_4da3_b396_fda0cdc3ce56.jpg
+  link: https://www.secretescapes.de/mittelalterliches-flair-and-weingenuss-in-venetien-hotel-roxy-plaza-soave-bei-verona-venetien-italien-1/sale
+
+- title: La Dolce Vita auf Elba
+  id: la-dolce-vita-auf-elba
+  location: Hotel Villa Ottone, Portoferraio auf Elba, Toskana, Italien
+  description: Inkl. Frühstück, 1x Dinner &amp; Ermäßigung auf Wellness-Anwendungen
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10377/ef34fd0d_591d_4d4c_ba42_98df902ecb27.jpg
+  link: https://www.secretescapes.de/la-dolce-vita-auf-elba-hotel-villa-ottone-portoferraio-auf-elba-toskana-italien/sale
+
+- title: Modernes Design hinter historischen Mauern
+  id: modernes-design-hinter-historischen-mauern
+  location: Hotel Sogno di Giulietta e Romeo, San Cassiano, Venedig, Venetien, Italien
+  description: Herrschaftliche Auszeit im Zentrum der Lagunenstadt – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 85
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82407/72199978_f8e3_4679_9449_b2cb61c32518.jpg
+  link: https://www.secretescapes.de/modernes-design-hinter-historischen-mauern-hotel-sogno-di-giulietta-e-romeo-san-cassiano-venedig-venetien-italien/sale
+
+- title: Italienischer Lifestyle in der Stadt der Mode
+  id: italienischer-lifestyle-in-der-stadt-der-mode
+  location: Enterprise Hotel, Mailand, Lombardei, Italien
+  description: Inkl. kulinarischem Willkommensgeschenk, spätem Check-out &amp; optionalem Zugang zum Panorama-Spa
+  price: 71
+  price-description: pro Unterkunft pro Nacht
+  saved: 54
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32687/8c9003ac_4d63_48c5_8e6a_55c0fe0ec08f.jpg
+  link: https://www.secretescapes.de/italienischer-lifestyle-in-der-modestadt-enterprise-hotel-mailand-lombardei-italien/sale
 
 - title: Mediterraner Lifestyle in Bologna
   id: mediterraner-lifestyle-in-bologna
@@ -480,20 +277,269 @@
   price: 50
   price-description: pro Zimmer pro Nacht
   saved: 57
-  expires: 2019/01/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66692/43491b25_e6ad_4d24_ba01_9817cc607c2d.jpg
-  link: https://www.secretescapes.de/mediterraner-lifestyle-in-bologna-best-western-plus-tower-hotel-bologna-emilia-romagna-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  link: https://www.secretescapes.de/mediterraner-lifestyle-in-bologna-best-western-plus-tower-hotel-bologna-emilia-romagna-italien/sale
 
-- title: Romantische Tage in der Toskana
-  id: romantische-tage-in-der-toskana
-  location: Hotel Pierre, Florenz, Toskana, Italien
-  description: Zwischen Dom und Ponte Vecchio residieren – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 75
+- title: Venedig für Designliebhaber
+  id: venedig-für-designliebhaber
+  location: Venice Times Hotel, Venedig, Venetien, Italien
+  description: Inkl. Frühstück, Begrüßungsgetränk, Smartphone-Nutzung &amp; Erstbefüllung der Minibar
+  price: 125
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82189/00d98f5f_ffd9_4d07_bb5c_0b2660db3a40.jpg
+  link: https://www.secretescapes.de/venedig-fuer-designliebhaber-venice-times-hotel-venedig-venetien-italien-ita/sale
+
+- title: Boutique-Charme in Rom
+  id: boutique-charme-in-rom
+  location: Ars Hotel, Rom, Italien
+  description: Zimmer in Roms Gartenviertel – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 49
+  price-description: pro Zimmer pro Nacht
+  saved: 47
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/40341/6b7a525f_4d15_4ca3_aa83_e4265d37ea38.jpg
+  link: https://www.secretescapes.de/boutique-charme-in-rom-ars-hotel-rom-italien1/sale
+
+- title: Toskana-Urlaub idyllisch & zentral
+  id: toskana-urlaub-idyllisch-and-zentral
+  location: San Gallo Palace, Florenz, Italien
+  description: Boutiquehotel mit florentinischem Garten – inkl. Frühstück, Begrüßungsgetränk &amp; Extras
+  price: 79
   price-description: pro Zimmer pro Nacht
   saved: 42
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/40191/d4429f3a_66f1_471a_b281_92659923012e.jpg
-  link: https://www.secretescapes.de/romantische-tage-in-der-toskana-hotel-pierre-florenz-toskana-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/27295/2270f40a_6e6e_4291_80de_e2e98a6d2cb9.jpg
+  link: https://www.secretescapes.de/toskana-urlaub-idyllisch-and-zentral-san-gallo-palace-florenz-italien-de/sale
+
+- title: Wellnesstage in den Dolomiten
+  id: wellnesstage-in-den-dolomiten
+  location: Natur- & Aktivhotel Rogen, Bozen, Südtirol, Italien
+  description: Südtiroler Berg-Wellness mit Charme – inkl. Frühstück, Spa-Zugang &amp; Extras
+  price: 129
+  price-description: pro Unterkunft pro Nacht
+  saved: 44
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60593/2945bcda_c928_4b3b_8ce7_ce3ec74bd727.jpg
+  link: https://www.secretescapes.de/wellnesstage-in-den-dolomiten-natur-and-aktivhotel-rogen-bozen-suedtirol-italien/sale
+
+- title: Romantik in Rimini
+  id: romantik-in-rimini
+  location: You & Me Beach Hotel, Rimini, Italien
+  description: Idyllische Naturkulisse, kulturelle Inspiration und City-Flair – inkl. Frühstück
+  price: 50
+  price-description: pro Unterkunft pro Nacht
+  saved: 45
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86965/4809fe32_7739_414d_bcc8_0f5de0004a18.jpg
+  link: https://www.secretescapes.de/romantik-in-rimini-you-and-me-beach-hotel-rimini-italien-1/sale
+
+- title: Römische Eleganz am Westufer des Tibers
+  id: römische-eleganz-am-westufer-des-tibers
+  location: Hotel dei Consoli, Rom, Italien
+  description: Klassisches Cityhotel mit Dachterrasse – inkl. Frühstück &amp; Wein zur Begrüßung
+  price: 59
+  price-description: pro Zimmer pro Nacht
+  saved: 63
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60321/c105a0e6_d6d4_4122_ba1d_541574fc3a72.jpg
+  link: https://www.secretescapes.de/roemische-eleganz-am-westufer-des-tibers-hotel-dei-consoli-rom-italien/sale
+
+- title: Mittelmeer-Romantik auf Sizilien
+  id: mittelmeer-romantik-auf-sizilien
+  location: Falconara Resort & Spa, Falconara, Sizilien, Italien
+  description: Strandauszeit an der Südküste Siziliens – inkl. Flügen, Frühstück, Mietwagen &amp; Extras
+  price: 559
+  price-description: pro Person für 7 Nächte
+  flight-tag: true
+  saved: 24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11160/5398ee0b_7b69_4566_97a7_2087ffc07528.jpg
+  link: https://www.secretescapes.de/mittelmeer-romantik-auf-sizilien-falconara-charming-house-resort-and-spa-falconara-sizilien-italien/sale
+
+- title: Entschleunigen in den Dolomiten
+  id: entschleunigen-in-den-dolomiten
+  location: Europeo Alpine Charme & Wellness Hotel, Pinzolo, Trentino, Italien
+  description: Inkl. Frühstück oder Halbpension, 1 Flasche Wein, Wellness-Zugang und -gutschein & Begrüßungsgetränk
+  price: 112
+  price-description: pro Unterkunft pro Nacht
+  saved: 64
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72345/f734ccc1_a9e8_4a64_b4b6_750d3b475ac0.jpg
+  link: https://www.secretescapes.de/entschleunigen-in-den-dolomiten-europeo-alpine-charme-and-wellness-hotel-pinzolo-trentino-suedtirol-italien/sale
+
+- title: Zeitgenössisches Design am Golf von Neapel
+  id: zeitgenössisches-design-am-golf-von-neapel
+  location: Relais Manfredi, Castellammare di Stabia, Kampanien, Italien
+  description: Zimmer mit Meer- oder Gartenblick inkl. Frühstück, Begrüßungsgetränk  &amp; Restaurant-Ermäßigung
+  price: 89
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69161/dccdc54d_3e80_4c9a_82d5_8dfd0dd05010.jpg
+  link: https://www.secretescapes.de/zeitgenossisches-design-am-golf-von-neapel-relais-manfredi-castellammare-di-stabia-kampanien-italien-de/sale
+
+- title: Luxuriöses Panorama auf Sizilien
+  id: luxuriöses-panorama-auf-sizilien
+  location: Grand Hotel San Pietro Taormina, Sizilien, Italien
+  description: Inkl. Frühstück oder Halbpension, spätem Check-out&nbsp; &amp; optionalen Extras
+  price: 134
+  price-description: pro Zimmer pro Nacht
+  saved: 56
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44366/42cb13cb_e541_45a7_ab36_cebb1e26251b.jpg
+  link: https://www.secretescapes.de/luxurioses-panorama-auf-sizilien-grand-hotel-san-pietro-taormina-sizilien-italien/sale
+
+- title: Moderne Eleganz hoch über dem Golf von Neapel
+  id: moderne-eleganz-hoch-über-dem-golf-von-neapel
+  location: BW Signature Collection Hotel Paradiso, Neapel, Kampanien, Italien
+  description: Inkl. Frühstück, 1 Flasche Prosecco, Begrüßungsgetränk &amp; weitere Extras
+  price: 98
+  price-description: pro Zimmer pro Nacht
+  saved: 56
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60935/8f5e15ce_0c30_4e05_b792_76f141f6bacf.jpg
+  link: https://www.secretescapes.de/moderne-eleganz-hoch-ueber-dem-golf-von-neapel-bw-signature-collection-hotel-paradiso-neapel-kampanien-italien/sale
+
+- title: "Apulien: Ein Sommer-Flirt mit der Adriaküste"
+  id: in-sommer-flirt-mit-der-adriaküste
+  location: Torre Cintola Natural Sea Emotions, Monopoli, Apulien, Italien
+  description: Resort mit Meerblick deluxe - Inkl. All-inclusive &amp; frühem Check-in
+  price: 114
+  price-description: pro Zimmer pro Nacht
+  saved: 31
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/78015/34f64b4f_8b37_4566_993e_5ccdb76aed89.jpg
+  link: https://www.secretescapes.de/apulien-ein-sommer-flirt-mit-der-adriakueste-torre-cintola-natural-sea-emotions-monopoli-apulien-italien/sale
+
+- title: Logenplatz am historischen Canal Cannaregio
+  id: logenplatz-am-historischen-canal-cannaregio
+  location: Palazzo Cendon, Venedig, Venetien, Italien
+  description: Superior-Zimmer mit Frühstück, Begrüßungsgetränk &amp; spätem Check-out
+  price: 88
+  price-description: pro Zimmer pro Nacht
+  saved: 70
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/43982/30f9a766_4dd9_49a9_980d_b48bbc12f5b2.jpg
+  link: https://www.secretescapes.de/logenplatz-am-historischen-canal-cannaregio-palazzo-cendon-venedig-venetien-italien/sale
+
+- title: Beste Aussichten am Golf von Neapel
+  id: beste-aussichten-am-golf-von-neapel
+  location: Hotel Miramare e Castello, Ischia, Kampanien, Italien
+  description: 5*-Traum mit Blick auf das imposante Castello – inkl. Frühstück, Begrüßungsgetränk &amp; Spa-Zugang
+  price: 127
+  price-description: pro Zimmer pro Nacht
+  saved: 52
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/6a69e19e_4fac_4cd3_a5a5_4d8f91cebca6.jpg
+  link: https://www.secretescapes.de/elegantes-5-star-hotel-auf-ischia-hotel-miramare-e-castello-ischia-kampanien-italien/sale
+
+- title: Auszeit an der Stiefelspitze Italiens
+  id: auszeit-an-der-stiefelspitze-italiens
+  location: Hotel Rocca Della Sena, Tropea, Kalabrien, Italien
+  description: Direkter Strandzugang an Kalabriens Küste inkl. Frühstück, spätem Check-out &amp; Extras
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 49
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42364/59379fdc_5b2b_4b5e_8819_b6086ae26073.jpg
+  link: https://www.secretescapes.de/auszeit-an-der-stiefelspitze-italiens-hotel-rocca-della-sena-tropea-in-kalabrien-italien/sale
+
+- title: Hinreißendes Luxus-Refugium in der Toskana
+  id: hinreißendes-luxus-refugium-in-der-toskana
+  location: Grand Hotel Palazzo Livorno, Toskana, Italien
+  description: Majestätisch residieren – inkl. Frühstück, 1 Flasche Wein, Ermäßigung im Spa &amp; Hotelrestaurant
+  price: 99
+  price-description: pro Unterkunft pro Nacht
+  saved: 48
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41116/659c1bca_8770_433f_8ea4_ae1965778b58.jpg
+  link: https://www.secretescapes.de/hinreissendes-luxus-refugium-in-der-toskana-grand-hotel-palazzo-livorno-toskana-italien-de/sale
+
+- title: Ski & Shopping in den italienischen Alpen
+  id: ski-and-shopping-in-den-italienischen-alpen
+  location: Montivas Lodge, Livigno, Lombardei, Italien
+  description: Wellness und Bergromantik direkt an der Skipiste – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 129
+  price-description: pro room pro Nacht
+  saved: 37
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86377/0b2d7c03_939f_4244_ab95_7585dafce945.jpg
+  link: https://www.secretescapes.de/ski-and-shopping-in-den-italienischen-alpen-montivas-lodge-livigno-lombardei-italien/sale
+
+- title: Märchenschloss im prachtvollen Piemont
+  id: märchenschloss-im-prachtvollen-piemont
+  location: Castello di Guarene, Provinz Cuneo, Piemont, Italien
+  description: Luxuriöses Barockschloss im Piemont – inkl. Frühstück, Spa-Zugang &amp; Extras
+  price: 299
+  price-description: pro Zimmer pro Nacht
+  saved: 47
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25668/5a163d88_6ed8_449c_b246_7bb7d369441f.jpg
+  link: https://www.secretescapes.de/maerchenschloss-im-prachtvollen-piemont-castello-di-guarene-provinz-cuneo-piemont-italien/sale
+
+- title: Alpine Auszeit für Ski-Fans & Genießer
+  id: alpine-auszeit-für-ski-fans-and-genießer
+  location: Alpin Royal Wellness Refugium & Resort Hotel, Ahrntal, Trentino-Südtirol, Italien
+  description: Inkl. All-inclusive, Spa-Zugang, Skibus-Nutzung, Leih-Mountainbikes &amp; Extras
+  price: 199
+  price-description: pro Suite pro Nacht
+  saved: 46
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70458/bf363cb3_3917_487a_bccb_6795e0082c0f.jpg
+  link: https://www.secretescapes.de/alpine-auszeit-fuer-ski-fans-and-geniesser-alpin-royal-wellness-refugium-and-resort-hotel-ahrntal-trentino-suedtirol-italien2/sale
+
+- title: Kulinarischer Traum in Montepulciano
+  id: kulinarischer-traum-in-montepulciano
+  location: Palazzo Mosela alla Porta, Montepulciano, Toskana, Italien
+  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk, kulinarischer Verkostung &amp; Extras
+  price: 69
+  price-description: pro Zimmer pro Nacht
+  saved: 65
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72070/da957b0f_ebd9_4664_9ac0_765415d97d03.jpg
+  link: https://www.secretescapes.de/kulinarischer-traum-in-montepulciano-palazzo-mosela-alla-porta-montepulciano-toskana-italien/sale
+
+- title: Historisches Boutiquehotel zentral in Florenz
+  id: historisches-boutiquehotel-zentral-in-florenz
+  location: Hotel Brunelleschi, Florenz, Italien
+  description: Turm aus byzantinischer Zeit mit Blick auf die Via dei Calzaiuoli – inkl. Frühstück &amp; Extras
+  price: 170
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12943/723e540f_b1ae_4fdf_9ddf_ae67fe311821.jpg
+  link: https://www.secretescapes.de/historisches-boutiquehotel-zentral-in-florenz-hotel-brunelleschi-florenz-italien/sale
+
+- title: Sonnenverwöhnte Tage in Sizilien
+  id: sonnenverwöhnte-tage-in-sizilien
+  location: I Mulini Resort, Trapani, Sizilien, Italien
+  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk &amp; Gutschein für Sonnenschirm und -liegen
+  price: 76
+  price-description: pro Unterkunft pro Nacht
+  saved: 53
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/21505/49b45302_3d8f_4c34_b9f1_b08cdc5b94e5.jpg
+  link: https://www.secretescapes.de/sonnenverwohnte-tage-in-sizilien-i-mulini-resort-trapani-sizilien-italien-ita/sale
+
+- title: Junior-Suite im Süden Italiens
+  id: junior-suite-im-süden-italiens
+  location: Salento Residence & Suites, San Cataldo, Apulien, Italien
+  description: Zwischen Strandurlaub &amp; Sightseeing in Apulien  – inkl. Begrüßungsgetränk &amp; Extras
+  price: 79
+  price-description: pro Junior Suite pro Nacht
+  saved: 31
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71389/92baf222_d37f_4931_b265_8188330c40a9.jpg
+  link: https://www.secretescapes.de/junior-suite-im-sueden-italiens-salento-residence-and-suites-san-cataldo-apulien-italien-de/sale
+
+- title: Alpines Boutiquehotel im Aostatal
+  id: alpines-boutiquehotel-im-aostatal
+  location: Hotel du Grand Paradis & Spa la Baita, Cogne, Aostatal, Italien
+  description: La Dolce Vita in historischem Boutiquehotel – inkl. Frühstück, Spa-Anwendung &amp; weiteren Extras
+  price: 94
+  price-description: pro Zimmer pro Nacht
+  saved: 39
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/58848/8184d827_dca2_47c2_89e4_d872f0e9b69d.jpg
+  link: https://www.secretescapes.de/alpines-boutiquehotel-im-aostatal-hotel-du-grand-paradis-and-spa-la-baita-cogne-aostatal-italien-de/sale
+
+- title: Palazzo-Flair im sizilianischen Ragusa
+  id: palazzo-flair-im-sizilianischen-ragusa
+  location: De Stefano Palace - Luxury Hotel, Ragusa, Sizilien, Italien
+  description: Inkl. Frühstück, 1x Spa-Zugang, Spa-Gutschein &amp; Begrüßungsgetränk
+  price: 69
+  price-description: pro Zimmer pro Nacht
+  saved: 63
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75842/a341c242_0430_45aa_a070_e3fb5748474a.jpg
+  link: https://www.secretescapes.de/palazzo-flair-im-sizilianischen-ragusa-de-stefano-palace-luxury-hotel-ragusa-sizilien-italien-de/sale
+
+- title: Erholsame Tage am Comer See
+  id: erholsame-tage-am-comer-see
+  location: Lake Apartments, Lecco, Comer See, Lombardei, Italien
+  description: Den Comer See direkt vor der Tür – für Selbstversorger oder optional inkl. &amp; Extras
+  price: 69
+  price-description: pro Zimmer pro Nacht
+  saved: 57
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62957/aea7b2d4_4934_4af5_83b5_3793d29039d2.jpg
+  link: https://www.secretescapes.de/erholsame-tage-am-comer-see-lake-apartments-lecco-comer-see-lombardei-italien/sale
 
 - title: Venetiens Berge nach Boutiquefasson
   id: venetiens-berge-nach-boutiquefasson
@@ -502,39 +548,15 @@
   price: 155
   price-description: pro Zimmer pro Nacht
   saved: 39
-  expires: 2019/01/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6360/48ab5706_937a_4a0c_a584_003d92bae97e.jpg
-  link: https://www.secretescapes.de/venetiens-berge-nach-boutiquefasson-meltar-boutique-hotel-asiago-venetien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  link: https://www.secretescapes.de/venetiens-berge-nach-boutiquefasson-meltar-boutique-hotel-asiago-venetien-italien/sale
 
-- title: 5*-Wellnessträume am Gardasee
-  id: 5-wellnessträume-am-gardasee
-  location: Lefay Resort & Spa Lago di Garda, Gargnano am Gardasee, Lombardei, Italien
-  description: Inkl. Frühstück, täglichem Spa-Zugang, 1x Nutzung des Salzsees &amp; Begrüßungsgetränk
-  price: 295
+- title: "Mehr von Mailand: 360°-Panorama & 5*-Design"
+  id: panorama-and-5-design
+  location: Hotel VIU Milan, Mailand, Lombardei, Italien
+  description: Italiens Modemetropole Inkl. Frühstück, Begrüßungsgetränk &amp; Spa-Zugang
+  price: 238
   price-description: pro Unterkunft pro Nacht
-  saved: 39
-  expires: 2019/01/17
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/56917/126468c9_6e07_4d6d_8bdf_ec22fc23373f.jpg
-  link: https://www.secretescapes.de/5-star-wellnesstraeume-am-gardasee-lefay-resort-and-spa-lago-di-garda-gargnano-am-gardasee-lombardei-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Kleinod in süditalienischer Idylle
-  id: kleinod-in-süditalienischer-idylle
-  location: Masseria Bagnara Resort & Spa, Lizzano, Apulien, Italien
-  description: Restauriertes Bauernhaus nahe den Stränden Apuliens – inkl. Frühstück &amp; Extras
-  price: 134
-  price-description: pro Zimmer pro Nacht
-  saved: 45
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61547/482b1972_56cc_485b_bb83_3f3e52ccb1dd.jpg
-  link: https://www.secretescapes.de/kleinod-in-sueditalienischer-idylle-masseria-bagnara-resort-and-spa-lizzano-apulien-italien-de/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
-
-- title: Herrschaftliche Eco-Villa in Siziliens Inselidyll
-  id: herrschaftliche-eco-villa-in-siziliens-inselidyll
-  location: Borgo Musolino Country Resort, Messina, Sizilien, Italien
-  description: Natur &amp; Kultur pur bei Messina – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 119
-  price-description: pro Zimmer pro Nacht
-  saved: 63
-  expires: 2019/01/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85649/c51a74d9_0e41_4b8f_9bd7_6376208fba43.jpg
-  link: https://www.secretescapes.de/herrschaftliche-eco-villa-in-siziliens-inselidyll-borgo-musolino-country-resort-messina-sizilien-italien/sale?utm_source=SE_media&utm_medium=hub&utm_campaign=italy_DE_2018
+  saved: 43
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81926/fb1300b5_0b6a_424a_bccb_44c7624bc5b0.jpg
+  link: https://www.secretescapes.de/mehr-von-mailand-360-panorama-and-5-star-design-hotel-viu-milan-mailand-lombardei-italien/sale
